@@ -1,0 +1,51 @@
+supplier_id,supplier_name,country,rating,certification,contact_email,active
+SUP-000001,AeroSpec Alloys,China,2.2,AS9100,sales@aerospecalloys.com,True
+SUP-000002,Sterling Hydraulics Ltd.,Italy,1.7,ISO 14001,sales@sterlinghydraulics.com,True
+SUP-000003,BlueLine Fastening Systems,Brazil,2.5,ISO 9001,sales@bluelinefastenings.com,True
+SUP-000004,Quantum Sensor Solutions,Taiwan,3.9,ISO 45001,sales@quantumsensorsolut.com,True
+SUP-000005,Continental Rubber Works,Germany,3.7,AS9100,sales@continentalrubberw.com,True
+SUP-000006,Southern Tube & Pipe,Mexico,2.7,AS9100,sales@southerntube&pipe.com,True
+SUP-000007,Delta Fluid Power,Germany,2.6,ISO 45001,sales@deltafluidpower.com,True
+SUP-000008,Fuji Component Works,Japan,4.5,NADCAP,sales@fujicomponentworks.com,True
+SUP-000009,MidWest Stamping Inc.,China,2.8,AS9100,sales@midweststampinginc.com,True
+SUP-000010,Precision Metals Inc.,Japan,3.2,ISO 9001,sales@precisionmetalsinc.com,True
+SUP-000011,MetaPower Magnetics,Canada,1.1,ISO 14001,sales@metapowermagnetics.com,True
+SUP-000012,Monterrey Steel SA,Brazil,1.9,IATF 16949,sales@monterreysteelsa.com,True
+SUP-000013,EliteWire Solutions,China,2.1,ISO 14001,sales@elitewiresolutions.com,True
+SUP-000014,TechStar Components,South Korea,1.2,ISO 13485,sales@techstarcomponents.com,True
+SUP-000015,Advanced Polymer Solutions,USA,3.0,ISO 13485,sales@advancedpolymersol.com,True
+SUP-000016,Nordic Precision AB,Taiwan,4.8,AS9100,sales@nordicprecisionab.com,True
+SUP-000017,Horizon Wire & Cable,Germany,2.0,IATF 16949,sales@horizonwire&cable.com,True
+SUP-000018,RheinStahl GmbH,Canada,4.5,ISO 45001,sales@rheinstahlgmbh.com,True
+SUP-000019,Unified Plating Services,Italy,4.8,ISO 14001,sales@unifiedplatingserv.com,True
+SUP-000020,Atlas Bearing Co.,Taiwan,2.8,ISO 9001,sales@atlasbearingco.com,True
+SUP-000021,Sakura Electronics Co.,Taiwan,4.5,ISO 9001,sales@sakuraelectronicsc.com,True
+SUP-000022,Spartan Surface Tech,Italy,4.5,ISO 45001,sales@spartansurfacetech.com,True
+SUP-000023,NeoChem Polymers,Italy,2.6,ISO 45001,sales@neochempolymers.com,True
+SUP-000024,Terra Mineral Processing,Japan,4.7,ISO 13485,sales@terramineralproces.com,True
+SUP-000025,GreenField Chemicals,Germany,1.3,ISO 9001,sales@greenfieldchemical.com,True
+SUP-000026,TitanForge Metals,India,3.9,IATF 16949,sales@titanforgemetals.com,True
+SUP-000027,Han River Materials,Japan,2.6,ISO 13485,sales@hanrivermaterials.com,True
+SUP-000028,Samwon Tech Corp.,Germany,4.6,ISO 13485,sales@samwontechcorp.com,True
+SUP-000029,SolidState Devices,Brazil,1.5,ISO 14001,sales@solidstatedevices.com,True
+SUP-000030,Cascade Fasteners,Brazil,3.8,ISO 9001,sales@cascadefasteners.com,True
+SUP-000031,NovaChem Industries,Mexico,1.9,ISO 9001,sales@novachemindustries.com,True
+SUP-000032,SummitView Logistics,Brazil,3.6,NADCAP,sales@summitviewlogistic.com,True
+SUP-000033,Heritage Alloy Foundry,Brazil,1.8,ISO 45001,sales@heritagealloyfound.com,True
+SUP-000034,Summit Materials Group,Mexico,4.9,IATF 16949,sales@summitmaterialsgro.com,True
+SUP-000035,BrightCoat Finishes,UK,4.5,ISO 14001,sales@brightcoatfinishes.com,True
+SUP-000036,ShinEtsu Silicones,Canada,2.5,NADCAP,sales@shinetsusilicones.com,True
+SUP-000037,GlobalTech Components,Taiwan,1.4,IATF 16949,sales@globaltechcomponen.com,True
+SUP-000038,Dynamo Electric Supply,Brazil,3.4,AS9100,sales@dynamoelectricsupp.com,True
+SUP-000039,Premier Die Casting,China,4.3,ISO 14001,sales@premierdiecasting.com,True
+SUP-000040,Apex Steel Corp.,China,1.1,ISO 9001,sales@apexsteelcorp.com,True
+SUP-000041,NorthStar Bearings,UK,4.2,ISO 9001,sales@northstarbearings.com,True
+SUP-000042,OakRidge Composites,Taiwan,4.0,ISO 13485,sales@oakridgecomposites.com,True
+SUP-000043,PureTech Substrates,Taiwan,4.1,ISO 45001,sales@puretechsubstrates.com,True
+SUP-000044,Donghua Materials Co.,Brazil,4.4,ISO 14001,sales@donghuamaterialsco.com,True
+SUP-000045,ProFlow Hydraulics,Mexico,3.3,NADCAP,sales@proflowhydraulics.com,True
+SUP-000046,EagleTech Semiconductors,South Korea,4.6,ISO 9001,sales@eagletechsemicondu.com,True
+SUP-000047,Pacific Alloy Supply,Italy,4.3,AS9100,sales@pacificalloysupply.com,True
+SUP-000048,Pinnacle Coatings Ltd.,Brazil,4.2,NADCAP,sales@pinnaclecoatingslt.com,True
+SUP-000049,Westlake Plastics Supply,India,3.6,ISO 13485,sales@westlakeplasticssu.com,True
+SUP-000050,ProCast Foundry,India,1.6,ISO 13485,sales@procastfoundry.com,True

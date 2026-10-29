@@ -1,0 +1,816 @@
+bom_id,sku_id,material_name,quantity_per_unit,unit,critical
+BOM-000001,SKU-000001,Polyurethane Foam,0.785,kg,False
+BOM-000002,SKU-000001,Epoxy Resin,0.481,kg,True
+BOM-000003,SKU-000001,FR4 Laminate,3.001,pcs,False
+BOM-000004,SKU-000001,Spring Wire (Music Wire),0.995,m,False
+BOM-000005,SKU-000001,HDPE Granules,3.871,kg,False
+BOM-000006,SKU-000001,Stainless Steel 316,2.06,kg,True
+BOM-000007,SKU-000002,Thermal Paste,2.691,g,False
+BOM-000008,SKU-000002,Silicone Rubber Compound,4.717,kg,False
+BOM-000009,SKU-000002,Carbon Steel Rod,3.098,kg,True
+BOM-000010,SKU-000003,Unconsumed-Alloy-010,2.419,kg,False
+BOM-000011,SKU-000003,Solder Paste SAC305,1.804,g,False
+BOM-000012,SKU-000003,Aluminum Plate 6061,1.513,kg,False
+BOM-000013,SKU-000003,Flux Core Wire,4.538,m,False
+BOM-000014,SKU-000003,Capacitor (SMD),2.938,pcs,False
+BOM-000015,SKU-000003,Connector Housing,1.265,pcs,False
+BOM-000016,SKU-000004,Stainless Steel 316,1.533,kg,True
+BOM-000017,SKU-000004,Aluminum Extrusion,2.467,kg,False
+BOM-000018,SKU-000005,Silicone Rubber Compound,4.582,kg,False
+BOM-000019,SKU-000005,Brass Tube,0.467,kg,False
+BOM-000020,SKU-000005,Steel Sheet (CR),4.307,kg,False
+BOM-000021,SKU-000006,Aluminum Extrusion,3.145,kg,True
+BOM-000022,SKU-000006,Copper Wire AWG-18,1.032,m,False
+BOM-000023,SKU-000006,Paint Primer (Zinc),3.394,kg,False
+BOM-000024,SKU-000006,Thermal Paste,1.3,g,True
+BOM-000025,SKU-000006,Flux Core Wire,1.832,m,False
+BOM-000026,SKU-000007,Silicone Rubber Compound,1.94,kg,False
+BOM-000027,SKU-000007,Copper Bus Bar,4.466,kg,True
+BOM-000028,SKU-000007,Brass Tube,4.243,kg,False
+BOM-000029,SKU-000007,Polycarbonate Resin,2.397,kg,False
+BOM-000030,SKU-000007,Polyurethane Foam,3.27,kg,False
+BOM-000031,SKU-000008,Hydraulic Fluid ISO-46,4.738,L,False
+BOM-000032,SKU-000008,Ceramic Substrate,1.563,pcs,False
+BOM-000033,SKU-000008,Epoxy Resin,2.853,kg,True
+BOM-000034,SKU-000008,Aluminum Plate 6061,1.38,kg,False
+BOM-000035,SKU-000008,Steel Sheet (CR),0.173,kg,True
+BOM-000036,SKU-000008,Flux Core Wire,0.901,m,False
+BOM-000037,SKU-000009,Brass Tube,2.813,kg,True
+BOM-000038,SKU-000009,Gasket Material (PTFE),0.92,pcs,False
+BOM-000039,SKU-000009,Anodize Solution,2.743,L,False
+BOM-000040,SKU-000009,HDPE Granules,4.276,kg,False
+BOM-000041,SKU-000009,Thermal Paste,1.419,g,False
+BOM-000042,SKU-000010,Flux Core Wire,1.248,m,False
+BOM-000043,SKU-000010,Solder Paste SAC305,0.814,g,False
+BOM-000044,SKU-000010,Powder Coat (RAL 7035),3.088,kg,False
+BOM-000045,SKU-000010,IC Chip Package,2.505,pcs,True
+BOM-000046,SKU-000010,Anodize Solution,1.65,L,False
+BOM-000047,SKU-000010,Copper Bus Bar,2.423,kg,False
+BOM-000048,SKU-000011,Copper Bus Bar,4.185,kg,True
+BOM-000049,SKU-000011,Anodize Solution,3.148,L,True
+BOM-000050,SKU-000011,Ceramic Substrate,3.318,pcs,True
+BOM-000051,SKU-000012,Aluminum Plate 6061,1.364,kg,True
+BOM-000052,SKU-000012,O-Ring (Viton),1.211,pcs,False
+BOM-000053,SKU-000012,Stainless Steel 316,4.977,kg,True
+BOM-000054,SKU-000012,Capacitor (SMD),3.758,pcs,False
+BOM-000055,SKU-000012,IC Chip Package,3.473,pcs,True
+BOM-000056,SKU-000012,FR4 Laminate,4.296,pcs,False
+BOM-000057,SKU-000013,Anodize Solution,2.336,L,True
+BOM-000058,SKU-000013,Lubricant Grease (Lithium),4.217,L,False
+BOM-000059,SKU-000013,Powder Coat (RAL 7035),0.259,kg,False
+BOM-000060,SKU-000013,Paint Primer (Zinc),0.193,kg,False
+BOM-000061,SKU-000013,Gasket Material (PTFE),0.938,pcs,False
+BOM-000062,SKU-000013,Carbon Steel Rod,2.649,kg,False
+BOM-000063,SKU-000014,Adhesive (Cyanoacrylate),1.016,g,False
+BOM-000064,SKU-000014,Steel Sheet (HR),2.122,kg,False
+BOM-000065,SKU-000014,Capacitor (SMD),4.224,pcs,False
+BOM-000066,SKU-000014,Paint Primer (Zinc),4.832,kg,False
+BOM-000067,SKU-000014,Nylon 6/6 Pellets,2.023,kg,False
+BOM-000068,SKU-000015,IC Chip Package,3.798,pcs,False
+BOM-000069,SKU-000015,Ceramic Substrate,2.633,pcs,True
+BOM-000070,SKU-000015,Aluminum Extrusion,3.525,kg,True
+BOM-000071,SKU-000015,Spring Wire (Music Wire),1.116,m,False
+BOM-000072,SKU-000015,Lubricant Grease (Lithium),1.408,L,True
+BOM-000073,SKU-000016,Connector Housing,3.069,pcs,False
+BOM-000074,SKU-000016,Stainless Steel 304,4.251,kg,False
+BOM-000075,SKU-000016,Steel Sheet (HR),3.474,kg,False
+BOM-000076,SKU-000017,Spring Wire (Music Wire),3.431,m,False
+BOM-000077,SKU-000017,Ceramic Substrate,4.932,pcs,True
+BOM-000078,SKU-000017,Aluminum Plate 6061,4.695,kg,False
+BOM-000079,SKU-000018,Polyurethane Foam,4.921,kg,False
+BOM-000080,SKU-000018,Connector Housing,1.023,pcs,False
+BOM-000081,SKU-000018,Resistor (SMD),1.517,pcs,False
+BOM-000082,SKU-000018,HDPE Granules,2.9,kg,True
+BOM-000083,SKU-000019,Carbon Steel Rod,2.02,kg,False
+BOM-000084,SKU-000019,Powder Coat (RAL 7035),3.171,kg,False
+BOM-000085,SKU-000019,Thermal Paste,4.876,g,False
+BOM-000086,SKU-000020,IC Chip Package,3.127,pcs,False
+BOM-000087,SKU-000020,FR4 Laminate,1.926,pcs,False
+BOM-000088,SKU-000020,Epoxy Resin,2.649,kg,True
+BOM-000089,SKU-000020,Flux Core Wire,4.403,m,False
+BOM-000090,SKU-000020,Spring Wire (Music Wire),1.791,m,False
+BOM-000091,SKU-000021,Nickel Plating Solution,3.595,L,False
+BOM-000092,SKU-000021,Bearing Ball (Chrome Steel),0.504,pcs,True
+BOM-000093,SKU-000021,IC Chip Package,3.048,pcs,False
+BOM-000094,SKU-000021,Nylon 6/6 Pellets,0.366,kg,False
+BOM-000095,SKU-000021,Steel Sheet (HR),0.504,kg,False
+BOM-000096,SKU-000021,O-Ring (Viton),0.592,pcs,False
+BOM-000097,SKU-000022,Stainless Steel 316,1.477,kg,False
+BOM-000098,SKU-000022,Powder Coat (RAL 7035),1.988,kg,False
+BOM-000099,SKU-000022,Nickel Plating Solution,1.03,L,False
+BOM-000100,SKU-000022,Polyurethane Foam,1.035,kg,True
+BOM-000101,SKU-000022,Polycarbonate Resin,2.041,kg,False
+BOM-000102,SKU-000022,Hydraulic Fluid ISO-46,1.894,L,False
+BOM-000103,SKU-000023,Polycarbonate Resin,4.759,kg,False
+BOM-000104,SKU-000023,Neodymium Magnet,1.1,pcs,True
+BOM-000105,SKU-000023,Bearing Ball (Chrome Steel),4.367,pcs,False
+BOM-000106,SKU-000024,Ceramic Substrate,2.659,pcs,False
+BOM-000107,SKU-000024,Thermal Paste,2.521,g,False
+BOM-000108,SKU-000025,Flux Core Wire,0.394,m,True
+BOM-000109,SKU-000025,Adhesive (Cyanoacrylate),3.697,g,False
+BOM-000110,SKU-000025,Ceramic Substrate,2.351,pcs,False
+BOM-000111,SKU-000025,Nylon 6/6 Pellets,4.746,kg,False
+BOM-000112,SKU-000025,Stainless Steel 304,4.245,kg,True
+BOM-000113,SKU-000025,Aluminum Extrusion,2.562,kg,False
+BOM-000114,SKU-000026,Steel Sheet (HR),1.832,kg,False
+BOM-000115,SKU-000026,Lubricant Grease (Lithium),2.249,L,False
+BOM-000116,SKU-000026,Copper Wire AWG-18,2.153,m,True
+BOM-000117,SKU-000027,Hydraulic Fluid ISO-46,3.976,L,False
+BOM-000118,SKU-000027,IC Chip Package,3.288,pcs,False
+BOM-000119,SKU-000027,Solder Paste SAC305,4.022,g,False
+BOM-000120,SKU-000027,Brass Tube,3.577,kg,False
+BOM-000121,SKU-000027,Gasket Material (PTFE),1.845,pcs,False
+BOM-000122,SKU-000028,Epoxy Resin,0.583,kg,False
+BOM-000123,SKU-000028,Thermal Paste,1.873,g,False
+BOM-000124,SKU-000028,Ceramic Substrate,1.292,pcs,False
+BOM-000125,SKU-000028,Powder Coat (RAL 7035),3.154,kg,False
+BOM-000126,SKU-000028,Anodize Solution,3.923,L,False
+BOM-000127,SKU-000028,Flux Core Wire,1.553,m,True
+BOM-000128,SKU-000029,Connector Housing,0.286,pcs,False
+BOM-000129,SKU-000029,Copper Wire AWG-18,3.675,m,False
+BOM-000130,SKU-000030,Anodize Solution,1.63,L,False
+BOM-000131,SKU-000030,Steel Sheet (HR),4.982,kg,False
+BOM-000132,SKU-000030,Copper Bus Bar,3.291,kg,False
+BOM-000133,SKU-000030,Carbon Steel Rod,0.843,kg,False
+BOM-000134,SKU-000031,ABS Pellets,2.06,kg,True
+BOM-000135,SKU-000031,Resistor (SMD),0.821,pcs,False
+BOM-000136,SKU-000032,Steel Sheet (HR),4.504,kg,False
+BOM-000137,SKU-000032,Nylon 6/6 Pellets,2.525,kg,True
+BOM-000138,SKU-000032,Brass Tube,1.779,kg,False
+BOM-000139,SKU-000032,Hydraulic Fluid ISO-46,2.203,L,False
+BOM-000140,SKU-000032,Carbon Steel Rod,2.865,kg,False
+BOM-000141,SKU-000032,Capacitor (SMD),0.166,pcs,False
+BOM-000142,SKU-000033,IC Chip Package,1.553,pcs,True
+BOM-000143,SKU-000033,Resistor (SMD),1.317,pcs,False
+BOM-000144,SKU-000033,Spring Wire (Music Wire),4.843,m,False
+BOM-000145,SKU-000033,Neodymium Magnet,0.976,pcs,False
+BOM-000146,SKU-000034,Flux Core Wire,1.521,m,True
+BOM-000147,SKU-000034,Copper Bus Bar,1.279,kg,True
+BOM-000148,SKU-000034,Spring Wire (Music Wire),2.861,m,False
+BOM-000149,SKU-000034,Connector Housing,4.194,pcs,False
+BOM-000150,SKU-000034,FR4 Laminate,1.565,pcs,True
+BOM-000151,SKU-000035,Powder Coat (RAL 7035),0.223,kg,False
+BOM-000152,SKU-000035,Stainless Steel 304,4.239,kg,False
+BOM-000153,SKU-000036,Stainless Steel 304,3.09,kg,True
+BOM-000154,SKU-000036,Stainless Steel 316,2.697,kg,False
+BOM-000155,SKU-000036,Thermal Paste,4.482,g,False
+BOM-000156,SKU-000036,Copper Bus Bar,4.992,kg,False
+BOM-000157,SKU-000037,Carbon Steel Rod,3.898,kg,False
+BOM-000158,SKU-000037,Copper Wire AWG-18,4.705,m,False
+BOM-000159,SKU-000038,Nickel Plating Solution,3.347,L,True
+BOM-000160,SKU-000038,Nylon 6/6 Pellets,3.123,kg,False
+BOM-000161,SKU-000039,Nylon 6/6 Pellets,1.394,kg,True
+BOM-000162,SKU-000039,Titanium Sheet,0.307,kg,False
+BOM-000163,SKU-000040,Aluminum Extrusion,4.097,kg,False
+BOM-000164,SKU-000040,Stainless Steel 304,0.921,kg,False
+BOM-000165,SKU-000040,Steel Sheet (HR),2.318,kg,False
+BOM-000166,SKU-000040,ABS Pellets,4.387,kg,False
+BOM-000167,SKU-000040,Polycarbonate Resin,4.35,kg,False
+BOM-000168,SKU-000041,Solder Paste SAC305,0.939,g,True
+BOM-000169,SKU-000041,IC Chip Package,4.006,pcs,False
+BOM-000170,SKU-000041,Resistor (SMD),0.583,pcs,True
+BOM-000171,SKU-000041,Copper Wire AWG-18,2.44,m,False
+BOM-000172,SKU-000041,Ceramic Substrate,1.431,pcs,False
+BOM-000173,SKU-000041,Steel Sheet (HR),3.318,kg,False
+BOM-000174,SKU-000042,Aluminum Plate 6061,0.946,kg,False
+BOM-000175,SKU-000042,Copper Bus Bar,0.952,kg,False
+BOM-000176,SKU-000042,Ferrite Core,0.068,pcs,True
+BOM-000177,SKU-000042,Brass Tube,3.18,kg,False
+BOM-000178,SKU-000043,Anodize Solution,4.736,L,False
+BOM-000179,SKU-000043,Epoxy Resin,2.093,kg,False
+BOM-000180,SKU-000044,Anodize Solution,0.533,L,True
+BOM-000181,SKU-000044,Titanium Sheet,3.996,kg,True
+BOM-000182,SKU-000044,Powder Coat (RAL 7035),2.976,kg,False
+BOM-000183,SKU-000045,Nylon 6/6 Pellets,1.904,kg,False
+BOM-000184,SKU-000045,Ceramic Substrate,0.804,pcs,False
+BOM-000185,SKU-000045,Hydraulic Fluid ISO-46,2.961,L,True
+BOM-000186,SKU-000045,Spring Wire (Music Wire),0.759,m,False
+BOM-000187,SKU-000046,Ferrite Core,0.317,pcs,False
+BOM-000188,SKU-000046,Powder Coat (RAL 7035),4.562,kg,False
+BOM-000189,SKU-000046,Solder Paste SAC305,3.805,g,True
+BOM-000190,SKU-000047,Polycarbonate Resin,0.27,kg,True
+BOM-000191,SKU-000047,Ferrite Core,2.079,pcs,True
+BOM-000192,SKU-000047,Solder Paste SAC305,2.519,g,False
+BOM-000193,SKU-000047,Thermal Paste,1.417,g,False
+BOM-000194,SKU-000048,HDPE Granules,0.141,kg,False
+BOM-000195,SKU-000048,Ceramic Substrate,2.283,pcs,True
+BOM-000196,SKU-000049,Connector Housing,1.776,pcs,False
+BOM-000197,SKU-000049,Steel Sheet (HR),1.844,kg,False
+BOM-000198,SKU-000049,Spring Wire (Music Wire),2.868,m,True
+BOM-000199,SKU-000049,FR4 Laminate,3.637,pcs,True
+BOM-000200,SKU-000049,Titanium Sheet,2.688,kg,False
+BOM-000201,SKU-000050,Polyurethane Foam,1.071,kg,False
+BOM-000202,SKU-000050,Stainless Steel 304,3.912,kg,True
+BOM-000203,SKU-000050,Powder Coat (RAL 7035),1.534,kg,False
+BOM-000204,SKU-000050,Anodize Solution,0.163,L,True
+BOM-000205,SKU-000050,Copper Wire AWG-18,0.415,m,False
+BOM-000206,SKU-000051,Aluminum Extrusion,4.387,kg,False
+BOM-000207,SKU-000051,Ceramic Substrate,1.384,pcs,False
+BOM-000208,SKU-000051,Copper Bus Bar,0.874,kg,False
+BOM-000209,SKU-000051,Copper Wire AWG-18,2.311,m,False
+BOM-000210,SKU-000052,Connector Housing,0.342,pcs,False
+BOM-000211,SKU-000052,Aluminum Extrusion,4.838,kg,False
+BOM-000212,SKU-000052,Powder Coat (RAL 7035),4.971,kg,False
+BOM-000213,SKU-000053,Bearing Ball (Chrome Steel),3.89,pcs,True
+BOM-000214,SKU-000053,Connector Housing,4.441,pcs,False
+BOM-000215,SKU-000053,HDPE Granules,3.95,kg,True
+BOM-000216,SKU-000054,Hydraulic Fluid ISO-46,2.669,L,False
+BOM-000217,SKU-000054,FR4 Laminate,2.26,pcs,True
+BOM-000218,SKU-000054,Spring Wire (Music Wire),4.818,m,True
+BOM-000219,SKU-000054,Anodize Solution,0.101,L,True
+BOM-000220,SKU-000054,Carbon Steel Rod,0.641,kg,False
+BOM-000221,SKU-000055,ABS Pellets,4.385,kg,False
+BOM-000222,SKU-000055,Copper Bus Bar,0.491,kg,False
+BOM-000223,SKU-000056,Anodize Solution,2.259,L,False
+BOM-000224,SKU-000056,Nickel Plating Solution,0.416,L,True
+BOM-000225,SKU-000056,Thermal Paste,0.137,g,False
+BOM-000226,SKU-000057,Brass Tube,0.444,kg,False
+BOM-000227,SKU-000057,Adhesive (Cyanoacrylate),0.505,g,True
+BOM-000228,SKU-000057,Carbon Steel Rod,2.653,kg,False
+BOM-000229,SKU-000058,Silicone Rubber Compound,0.214,kg,False
+BOM-000230,SKU-000058,Ceramic Substrate,1.942,pcs,True
+BOM-000231,SKU-000058,Ferrite Core,4.652,pcs,False
+BOM-000232,SKU-000058,Copper Bus Bar,3.895,kg,True
+BOM-000233,SKU-000058,Capacitor (SMD),2.765,pcs,True
+BOM-000234,SKU-000058,HDPE Granules,1.43,kg,False
+BOM-000235,SKU-000059,Copper Bus Bar,2.288,kg,False
+BOM-000236,SKU-000059,Powder Coat (RAL 7035),4.087,kg,True
+BOM-000237,SKU-000060,Ceramic Substrate,0.344,pcs,False
+BOM-000238,SKU-000060,Anodize Solution,3.562,L,False
+BOM-000239,SKU-000060,Brass Tube,1.028,kg,False
+BOM-000240,SKU-000060,Steel Sheet (HR),4.093,kg,False
+BOM-000241,SKU-000060,IC Chip Package,1.772,pcs,True
+BOM-000242,SKU-000060,Hydraulic Fluid ISO-46,1.877,L,True
+BOM-000243,SKU-000061,Steel Sheet (CR),1.853,kg,True
+BOM-000244,SKU-000061,Thermal Paste,2.709,g,False
+BOM-000245,SKU-000061,Anodize Solution,0.227,L,True
+BOM-000246,SKU-000061,Ceramic Substrate,1.897,pcs,True
+BOM-000247,SKU-000061,Lubricant Grease (Lithium),0.359,L,False
+BOM-000248,SKU-000061,HDPE Granules,0.77,kg,True
+BOM-000249,SKU-000062,Anodize Solution,4.011,L,False
+BOM-000250,SKU-000062,Nickel Plating Solution,3.952,L,False
+BOM-000251,SKU-000062,Capacitor (SMD),2.541,pcs,False
+BOM-000252,SKU-000062,ABS Pellets,0.7,kg,True
+BOM-000253,SKU-000062,Flux Core Wire,3.886,m,True
+BOM-000254,SKU-000063,Capacitor (SMD),3.562,pcs,False
+BOM-000255,SKU-000063,Ceramic Substrate,0.462,pcs,True
+BOM-000256,SKU-000063,Anodize Solution,0.345,L,True
+BOM-000257,SKU-000063,Polycarbonate Resin,3.076,kg,True
+BOM-000258,SKU-000063,Connector Housing,3.296,pcs,True
+BOM-000259,SKU-000063,Lubricant Grease (Lithium),2.795,L,False
+BOM-000260,SKU-000064,Bearing Ball (Chrome Steel),0.693,pcs,False
+BOM-000261,SKU-000064,Anodize Solution,2.267,L,True
+BOM-000262,SKU-000064,Copper Wire AWG-18,3.498,m,False
+BOM-000263,SKU-000065,Powder Coat (RAL 7035),3.533,kg,True
+BOM-000264,SKU-000065,Stainless Steel 316,0.209,kg,False
+BOM-000265,SKU-000065,Bearing Ball (Chrome Steel),0.7,pcs,False
+BOM-000266,SKU-000065,Silicone Rubber Compound,1.603,kg,False
+BOM-000267,SKU-000066,Spring Wire (Music Wire),3.25,m,False
+BOM-000268,SKU-000066,Resistor (SMD),3.573,pcs,False
+BOM-000269,SKU-000066,Lubricant Grease (Lithium),2.552,L,False
+BOM-000270,SKU-000066,Epoxy Resin,3.024,kg,False
+BOM-000271,SKU-000067,Nickel Plating Solution,4.193,L,False
+BOM-000272,SKU-000067,Polyurethane Foam,4.78,kg,False
+BOM-000273,SKU-000068,Capacitor (SMD),0.857,pcs,True
+BOM-000274,SKU-000068,Paint Primer (Zinc),1.5,kg,True
+BOM-000275,SKU-000069,Adhesive (Cyanoacrylate),3.33,g,False
+BOM-000276,SKU-000069,Resistor (SMD),3.857,pcs,False
+BOM-000277,SKU-000069,O-Ring (Viton),2.926,pcs,False
+BOM-000278,SKU-000069,Steel Sheet (CR),0.913,kg,False
+BOM-000279,SKU-000070,Spring Wire (Music Wire),3.142,m,True
+BOM-000280,SKU-000070,O-Ring (Viton),2.885,pcs,False
+BOM-000281,SKU-000070,Titanium Sheet,4.24,kg,True
+BOM-000282,SKU-000071,Copper Wire AWG-18,0.796,m,False
+BOM-000283,SKU-000071,ABS Pellets,4.651,kg,False
+BOM-000284,SKU-000071,Solder Paste SAC305,1.942,g,False
+BOM-000285,SKU-000072,Solder Paste SAC305,2.541,g,False
+BOM-000286,SKU-000072,ABS Pellets,3.024,kg,True
+BOM-000287,SKU-000072,Flux Core Wire,2.329,m,False
+BOM-000288,SKU-000072,Aluminum Extrusion,0.485,kg,False
+BOM-000289,SKU-000072,Ceramic Substrate,4.062,pcs,True
+BOM-000290,SKU-000073,HDPE Granules,4.604,kg,False
+BOM-000291,SKU-000073,Lubricant Grease (Lithium),4.91,L,True
+BOM-000292,SKU-000074,Steel Sheet (CR),4.097,kg,False
+BOM-000293,SKU-000074,Polycarbonate Resin,0.726,kg,False
+BOM-000294,SKU-000074,Epoxy Resin,0.157,kg,True
+BOM-000295,SKU-000074,Ceramic Substrate,4.883,pcs,False
+BOM-000296,SKU-000075,Steel Sheet (HR),0.118,kg,False
+BOM-000297,SKU-000075,Epoxy Resin,1.438,kg,False
+BOM-000298,SKU-000075,HDPE Granules,2.819,kg,True
+BOM-000299,SKU-000075,Ceramic Substrate,3.331,pcs,False
+BOM-000300,SKU-000075,Brass Tube,1.298,kg,True
+BOM-000301,SKU-000075,Paint Primer (Zinc),3.258,kg,False
+BOM-000302,SKU-000076,Capacitor (SMD),3.727,pcs,False
+BOM-000303,SKU-000076,Silicone Rubber Compound,4.206,kg,True
+BOM-000304,SKU-000076,Steel Sheet (CR),3.874,kg,False
+BOM-000305,SKU-000076,Unconsumed-Alloy-006,2.569,pcs,False
+BOM-000306,SKU-000076,Brass Tube,0.552,kg,False
+BOM-000307,SKU-000076,Polyurethane Foam,4.812,kg,True
+BOM-000308,SKU-000077,Connector Housing,2.575,pcs,False
+BOM-000309,SKU-000077,Polycarbonate Resin,0.456,kg,False
+BOM-000310,SKU-000077,Carbon Steel Rod,3.771,kg,True
+BOM-000311,SKU-000077,Aluminum Extrusion,0.728,kg,False
+BOM-000312,SKU-000077,Flux Core Wire,3.763,m,False
+BOM-000313,SKU-000077,Aluminum Plate 6061,1.071,kg,False
+BOM-000314,SKU-000078,Hydraulic Fluid ISO-46,1.59,L,False
+BOM-000315,SKU-000078,Ferrite Core,1.132,pcs,False
+BOM-000316,SKU-000078,Lubricant Grease (Lithium),4.791,L,False
+BOM-000317,SKU-000079,Flux Core Wire,1.954,m,False
+BOM-000318,SKU-000079,Neodymium Magnet,4.991,pcs,True
+BOM-000319,SKU-000079,ABS Pellets,0.667,kg,True
+BOM-000320,SKU-000079,Copper Wire AWG-18,0.712,m,True
+BOM-000321,SKU-000080,Solder Paste SAC305,4.477,g,False
+BOM-000322,SKU-000080,Aluminum Extrusion,0.855,kg,False
+BOM-000323,SKU-000080,Bearing Ball (Chrome Steel),0.916,pcs,True
+BOM-000324,SKU-000080,Flux Core Wire,2.238,m,True
+BOM-000325,SKU-000081,Solder Paste SAC305,1.543,g,False
+BOM-000326,SKU-000081,Aluminum Extrusion,3.978,kg,False
+BOM-000327,SKU-000081,Powder Coat (RAL 7035),0.5,kg,False
+BOM-000328,SKU-000081,Ferrite Core,2.66,pcs,True
+BOM-000329,SKU-000082,Spring Wire (Music Wire),0.534,m,False
+BOM-000330,SKU-000082,Neodymium Magnet,1.083,pcs,False
+BOM-000331,SKU-000082,O-Ring (Viton),3.664,pcs,False
+BOM-000332,SKU-000083,Silicone Rubber Compound,0.961,kg,False
+BOM-000333,SKU-000083,Anodize Solution,3.359,L,True
+BOM-000334,SKU-000083,Epoxy Resin,3.858,kg,True
+BOM-000335,SKU-000083,Ceramic Substrate,1.253,pcs,False
+BOM-000336,SKU-000083,Adhesive (Cyanoacrylate),0.113,g,True
+BOM-000337,SKU-000083,ABS Pellets,4.207,kg,False
+BOM-000338,SKU-000084,Paint Primer (Zinc),4.429,kg,False
+BOM-000339,SKU-000084,Aluminum Extrusion,1.79,kg,False
+BOM-000340,SKU-000084,Thermal Paste,1.75,g,True
+BOM-000341,SKU-000084,Powder Coat (RAL 7035),3.903,kg,False
+BOM-000342,SKU-000084,Polyurethane Foam,1.648,kg,False
+BOM-000343,SKU-000084,Carbon Steel Rod,4.173,kg,False
+BOM-000344,SKU-000085,Aluminum Extrusion,0.844,kg,False
+BOM-000345,SKU-000085,Hydraulic Fluid ISO-46,1.219,L,False
+BOM-000346,SKU-000085,Powder Coat (RAL 7035),2.347,kg,True
+BOM-000347,SKU-000085,Solder Paste SAC305,0.225,g,False
+BOM-000348,SKU-000086,HDPE Granules,0.617,kg,False
+BOM-000349,SKU-000086,Flux Core Wire,2.086,m,False
+BOM-000350,SKU-000086,Hydraulic Fluid ISO-46,1.87,L,False
+BOM-000351,SKU-000086,Stainless Steel 316,3.989,kg,False
+BOM-000352,SKU-000087,Lubricant Grease (Lithium),3.234,L,False
+BOM-000353,SKU-000087,Flux Core Wire,2.724,m,False
+BOM-000354,SKU-000088,Thermal Paste,4.16,g,True
+BOM-000355,SKU-000088,O-Ring (Viton),1.828,pcs,True
+BOM-000356,SKU-000088,Polyurethane Foam,2.625,kg,True
+BOM-000357,SKU-000088,Ferrite Core,1.545,pcs,False
+BOM-000358,SKU-000089,Nickel Plating Solution,1.313,L,False
+BOM-000359,SKU-000089,Spring Wire (Music Wire),3.028,m,False
+BOM-000360,SKU-000089,Gasket Material (PTFE),0.928,pcs,True
+BOM-000361,SKU-000089,Connector Housing,0.823,pcs,False
+BOM-000362,SKU-000089,Adhesive (Cyanoacrylate),4.604,g,False
+BOM-000363,SKU-000089,FR4 Laminate,4.015,pcs,False
+BOM-000364,SKU-000090,Nylon 6/6 Pellets,1.477,kg,False
+BOM-000365,SKU-000090,Polyurethane Foam,3.764,kg,False
+BOM-000366,SKU-000091,Adhesive (Cyanoacrylate),2.641,g,False
+BOM-000367,SKU-000091,HDPE Granules,2.796,kg,True
+BOM-000368,SKU-000091,Copper Bus Bar,4.092,kg,False
+BOM-000369,SKU-000092,Hydraulic Fluid ISO-46,4.676,L,False
+BOM-000370,SKU-000092,Aluminum Extrusion,3.914,kg,False
+BOM-000371,SKU-000092,Neodymium Magnet,1.769,pcs,True
+BOM-000372,SKU-000092,Aluminum Plate 6061,0.725,kg,False
+BOM-000373,SKU-000092,Nickel Plating Solution,4.882,L,True
+BOM-000374,SKU-000093,HDPE Granules,1.789,kg,True
+BOM-000375,SKU-000093,Hydraulic Fluid ISO-46,0.368,L,False
+BOM-000376,SKU-000093,Polyurethane Foam,0.699,kg,False
+BOM-000377,SKU-000094,Lubricant Grease (Lithium),2.017,L,True
+BOM-000378,SKU-000094,Copper Bus Bar,0.868,kg,False
+BOM-000379,SKU-000094,Aluminum Plate 6061,2.678,kg,False
+BOM-000380,SKU-000094,Gasket Material (PTFE),0.932,pcs,False
+BOM-000381,SKU-000095,Spring Wire (Music Wire),0.313,m,True
+BOM-000382,SKU-000095,ABS Pellets,3.99,kg,True
+BOM-000383,SKU-000095,Bearing Ball (Chrome Steel),4.784,pcs,True
+BOM-000384,SKU-000095,Stainless Steel 316,3.143,kg,False
+BOM-000385,SKU-000095,Powder Coat (RAL 7035),1.951,kg,False
+BOM-000386,SKU-000096,Silicone Rubber Compound,4.607,kg,False
+BOM-000387,SKU-000096,Stainless Steel 304,4.528,kg,True
+BOM-000388,SKU-000097,Neodymium Magnet,2.758,pcs,False
+BOM-000389,SKU-000097,Thermal Paste,4.038,g,False
+BOM-000390,SKU-000098,Silicone Rubber Compound,4.641,kg,False
+BOM-000391,SKU-000098,Lubricant Grease (Lithium),4.595,L,False
+BOM-000392,SKU-000098,Polyurethane Foam,4.127,kg,False
+BOM-000393,SKU-000098,Bearing Ball (Chrome Steel),2.221,pcs,False
+BOM-000394,SKU-000098,ABS Pellets,1.134,kg,False
+BOM-000395,SKU-000099,Aluminum Plate 6061,0.77,kg,False
+BOM-000396,SKU-000099,O-Ring (Viton),1.481,pcs,False
+BOM-000397,SKU-000099,Thermal Paste,2.305,g,True
+BOM-000398,SKU-000100,Brass Tube,3.541,kg,True
+BOM-000399,SKU-000100,Gasket Material (PTFE),1.919,pcs,True
+BOM-000400,SKU-000100,Copper Bus Bar,1.343,kg,False
+BOM-000401,SKU-000100,O-Ring (Viton),2.675,pcs,True
+BOM-000402,SKU-000101,Steel Sheet (CR),4.936,kg,False
+BOM-000403,SKU-000101,Neodymium Magnet,4.814,pcs,False
+BOM-000404,SKU-000102,Gasket Material (PTFE),0.904,pcs,True
+BOM-000405,SKU-000102,Solder Paste SAC305,2.785,g,False
+BOM-000406,SKU-000102,Brass Tube,3.047,kg,True
+BOM-000407,SKU-000102,Connector Housing,1.48,pcs,False
+BOM-000408,SKU-000102,ABS Pellets,2.785,kg,True
+BOM-000409,SKU-000102,Resistor (SMD),0.923,pcs,False
+BOM-000410,SKU-000103,Adhesive (Cyanoacrylate),1.922,g,False
+BOM-000411,SKU-000103,Solder Paste SAC305,0.96,g,False
+BOM-000412,SKU-000103,Nylon 6/6 Pellets,1.056,kg,True
+BOM-000413,SKU-000103,Steel Sheet (CR),2.152,kg,False
+BOM-000414,SKU-000104,Copper Bus Bar,1.911,kg,False
+BOM-000415,SKU-000104,Hydraulic Fluid ISO-46,2.175,L,False
+BOM-000416,SKU-000104,Polycarbonate Resin,4.374,kg,False
+BOM-000417,SKU-000104,Adhesive (Cyanoacrylate),3.369,g,False
+BOM-000418,SKU-000104,Brass Tube,2.2,kg,False
+BOM-000419,SKU-000104,Ferrite Core,2.214,pcs,False
+BOM-000420,SKU-000105,Thermal Paste,4.071,g,False
+BOM-000421,SKU-000105,Paint Primer (Zinc),0.694,kg,True
+BOM-000422,SKU-000105,ABS Pellets,0.484,kg,False
+BOM-000423,SKU-000105,Capacitor (SMD),2.854,pcs,False
+BOM-000424,SKU-000106,Epoxy Resin,2.846,kg,False
+BOM-000425,SKU-000106,Titanium Sheet,4.82,kg,False
+BOM-000426,SKU-000106,Stainless Steel 304,4.466,kg,False
+BOM-000427,SKU-000106,Steel Sheet (HR),3.273,kg,False
+BOM-000428,SKU-000106,Copper Bus Bar,4.274,kg,False
+BOM-000429,SKU-000107,Polycarbonate Resin,0.88,kg,True
+BOM-000430,SKU-000107,HDPE Granules,1.609,kg,True
+BOM-000431,SKU-000107,Gasket Material (PTFE),1.725,pcs,False
+BOM-000432,SKU-000107,Neodymium Magnet,2.762,pcs,False
+BOM-000433,SKU-000107,Anodize Solution,2.995,L,False
+BOM-000434,SKU-000107,Brass Tube,3.667,kg,False
+BOM-000435,SKU-000108,Titanium Sheet,3.69,kg,False
+BOM-000436,SKU-000108,Stainless Steel 304,1.601,kg,False
+BOM-000437,SKU-000108,Powder Coat (RAL 7035),3.337,kg,False
+BOM-000438,SKU-000108,Anodize Solution,0.435,L,False
+BOM-000439,SKU-000108,Spring Wire (Music Wire),2.025,m,False
+BOM-000440,SKU-000108,Capacitor (SMD),1.48,pcs,False
+BOM-000441,SKU-000109,IC Chip Package,1.136,pcs,False
+BOM-000442,SKU-000109,Adhesive (Cyanoacrylate),4.088,g,True
+BOM-000443,SKU-000110,Brass Tube,2.386,kg,False
+BOM-000444,SKU-000110,Nylon 6/6 Pellets,1.561,kg,True
+BOM-000445,SKU-000110,Stainless Steel 316,1.835,kg,False
+BOM-000446,SKU-000111,O-Ring (Viton),1.968,pcs,True
+BOM-000447,SKU-000111,Carbon Steel Rod,3.143,kg,False
+BOM-000448,SKU-000112,Nylon 6/6 Pellets,2.273,kg,False
+BOM-000449,SKU-000112,Stainless Steel 304,1.884,kg,False
+BOM-000450,SKU-000112,Epoxy Resin,2.389,kg,True
+BOM-000451,SKU-000112,O-Ring (Viton),4.57,pcs,False
+BOM-000452,SKU-000113,Bearing Ball (Chrome Steel),3.966,pcs,False
+BOM-000453,SKU-000113,Aluminum Extrusion,0.482,kg,False
+BOM-000454,SKU-000113,Ceramic Substrate,0.962,pcs,False
+BOM-000455,SKU-000113,Adhesive (Cyanoacrylate),4.626,g,False
+BOM-000456,SKU-000114,Polyurethane Foam,2.442,kg,False
+BOM-000457,SKU-000114,Silicone Rubber Compound,1.525,kg,False
+BOM-000458,SKU-000114,FR4 Laminate,4.043,pcs,False
+BOM-000459,SKU-000114,Polycarbonate Resin,3.953,kg,False
+BOM-000460,SKU-000115,Paint Primer (Zinc),3.645,kg,True
+BOM-000461,SKU-000115,Polyurethane Foam,3.396,kg,False
+BOM-000462,SKU-000115,HDPE Granules,4.904,kg,False
+BOM-000463,SKU-000115,Flux Core Wire,3.924,m,False
+BOM-000464,SKU-000115,Aluminum Extrusion,1.971,kg,True
+BOM-000465,SKU-000115,FR4 Laminate,0.662,pcs,True
+BOM-000466,SKU-000116,Capacitor (SMD),1.158,pcs,False
+BOM-000467,SKU-000116,Stainless Steel 304,2.598,kg,False
+BOM-000468,SKU-000117,Spring Wire (Music Wire),4.921,m,False
+BOM-000469,SKU-000117,Flux Core Wire,4.04,m,False
+BOM-000470,SKU-000118,FR4 Laminate,1.266,pcs,False
+BOM-000471,SKU-000118,Polyurethane Foam,3.621,kg,True
+BOM-000472,SKU-000118,Solder Paste SAC305,4.061,g,False
+BOM-000473,SKU-000118,Copper Bus Bar,3.405,kg,False
+BOM-000474,SKU-000118,Gasket Material (PTFE),0.439,pcs,False
+BOM-000475,SKU-000119,Spring Wire (Music Wire),1.855,m,False
+BOM-000476,SKU-000119,Flux Core Wire,0.404,m,True
+BOM-000477,SKU-000119,Epoxy Resin,3.977,kg,False
+BOM-000478,SKU-000119,Solder Paste SAC305,1.422,g,False
+BOM-000479,SKU-000119,Silicone Rubber Compound,1.24,kg,False
+BOM-000480,SKU-000119,Neodymium Magnet,3.271,pcs,False
+BOM-000481,SKU-000120,Bearing Ball (Chrome Steel),4.392,pcs,False
+BOM-000482,SKU-000120,Silicone Rubber Compound,0.76,kg,False
+BOM-000483,SKU-000120,Polyurethane Foam,2.275,kg,False
+BOM-000484,SKU-000120,Polycarbonate Resin,4.864,kg,True
+BOM-000485,SKU-000120,Ceramic Substrate,3.374,pcs,True
+BOM-000486,SKU-000121,Copper Bus Bar,4.385,kg,False
+BOM-000487,SKU-000121,Steel Sheet (CR),1.011,kg,False
+BOM-000488,SKU-000121,Thermal Paste,4.924,g,False
+BOM-000489,SKU-000121,O-Ring (Viton),4.66,pcs,False
+BOM-000490,SKU-000121,Ferrite Core,0.892,pcs,True
+BOM-000491,SKU-000121,Bearing Ball (Chrome Steel),4.478,pcs,False
+BOM-000492,SKU-000122,Adhesive (Cyanoacrylate),2.223,g,False
+BOM-000493,SKU-000122,Nylon 6/6 Pellets,4.681,kg,False
+BOM-000494,SKU-000122,Lubricant Grease (Lithium),4.667,L,True
+BOM-000495,SKU-000122,Titanium Sheet,1.182,kg,False
+BOM-000496,SKU-000122,HDPE Granules,1.184,kg,True
+BOM-000497,SKU-000123,Stainless Steel 316,3.056,kg,False
+BOM-000498,SKU-000123,Epoxy Resin,3.96,kg,True
+BOM-000499,SKU-000123,Capacitor (SMD),3.342,pcs,False
+BOM-000500,SKU-000123,Lubricant Grease (Lithium),4.718,L,False
+BOM-000501,SKU-000123,Adhesive (Cyanoacrylate),1.824,g,False
+BOM-000502,SKU-000124,Silicone Rubber Compound,3.43,kg,False
+BOM-000503,SKU-000124,ABS Pellets,3.644,kg,False
+BOM-000504,SKU-000124,Paint Primer (Zinc),1.206,kg,True
+BOM-000505,SKU-000124,Steel Sheet (HR),3.805,kg,True
+BOM-000506,SKU-000124,Polycarbonate Resin,2.568,kg,False
+BOM-000507,SKU-000125,Stainless Steel 304,4.406,kg,True
+BOM-000508,SKU-000125,O-Ring (Viton),2.689,pcs,False
+BOM-000509,SKU-000125,Titanium Sheet,3.009,kg,False
+BOM-000510,SKU-000125,Paint Primer (Zinc),1.172,kg,False
+BOM-000511,SKU-000126,Brass Tube,0.954,kg,False
+BOM-000512,SKU-000126,Copper Bus Bar,1.149,kg,True
+BOM-000513,SKU-000126,Epoxy Resin,2.403,kg,True
+BOM-000514,SKU-000126,O-Ring (Viton),1.389,pcs,False
+BOM-000515,SKU-000127,ABS Pellets,4.553,kg,True
+BOM-000516,SKU-000127,Silicone Rubber Compound,4.667,kg,False
+BOM-000517,SKU-000127,IC Chip Package,0.102,pcs,False
+BOM-000518,SKU-000127,Flux Core Wire,0.852,m,False
+BOM-000519,SKU-000128,Polyurethane Foam,2.617,kg,False
+BOM-000520,SKU-000128,Steel Sheet (HR),4.121,kg,False
+BOM-000521,SKU-000128,Ceramic Substrate,1.971,pcs,False
+BOM-000522,SKU-000128,Carbon Steel Rod,1.353,kg,False
+BOM-000523,SKU-000128,Epoxy Resin,2.693,kg,False
+BOM-000524,SKU-000129,Aluminum Extrusion,0.632,kg,False
+BOM-000525,SKU-000129,Resistor (SMD),4.94,pcs,False
+BOM-000526,SKU-000129,Thermal Paste,2.886,g,True
+BOM-000527,SKU-000129,Copper Wire AWG-18,2.336,m,False
+BOM-000528,SKU-000130,Stainless Steel 304,4.525,kg,True
+BOM-000529,SKU-000130,Solder Paste SAC305,2.016,g,True
+BOM-000530,SKU-000131,Capacitor (SMD),4.452,pcs,False
+BOM-000531,SKU-000131,Solder Paste SAC305,2.329,g,True
+BOM-000532,SKU-000131,Nylon 6/6 Pellets,4.075,kg,True
+BOM-000533,SKU-000131,Aluminum Extrusion,4.454,kg,True
+BOM-000534,SKU-000131,IC Chip Package,2.373,pcs,True
+BOM-000535,SKU-000132,Paint Primer (Zinc),2.448,kg,False
+BOM-000536,SKU-000132,Stainless Steel 304,3.043,kg,True
+BOM-000537,SKU-000132,Copper Bus Bar,3.687,kg,False
+BOM-000538,SKU-000132,ABS Pellets,0.231,kg,True
+BOM-000539,SKU-000132,Anodize Solution,2.423,L,False
+BOM-000540,SKU-000133,Silicone Rubber Compound,1.335,kg,False
+BOM-000541,SKU-000133,Gasket Material (PTFE),2.19,pcs,False
+BOM-000542,SKU-000133,Nylon 6/6 Pellets,4.342,kg,False
+BOM-000543,SKU-000133,Neodymium Magnet,0.897,pcs,False
+BOM-000544,SKU-000133,Epoxy Resin,3.548,kg,False
+BOM-000545,SKU-000134,ABS Pellets,3.002,kg,False
+BOM-000546,SKU-000134,Adhesive (Cyanoacrylate),0.234,g,False
+BOM-000547,SKU-000134,Lubricant Grease (Lithium),1.099,L,False
+BOM-000548,SKU-000135,Polyurethane Foam,2.735,kg,False
+BOM-000549,SKU-000135,Carbon Steel Rod,3.289,kg,False
+BOM-000550,SKU-000135,Gasket Material (PTFE),4.639,pcs,True
+BOM-000551,SKU-000135,Nylon 6/6 Pellets,0.68,kg,True
+BOM-000552,SKU-000136,Powder Coat (RAL 7035),1.491,kg,False
+BOM-000553,SKU-000136,Steel Sheet (CR),4.19,kg,False
+BOM-000554,SKU-000136,Steel Sheet (HR),2.544,kg,False
+BOM-000555,SKU-000136,Adhesive (Cyanoacrylate),4.671,g,False
+BOM-000556,SKU-000136,Resistor (SMD),1.027,pcs,True
+BOM-000557,SKU-000136,Lubricant Grease (Lithium),0.261,L,True
+BOM-000558,SKU-000137,Carbon Steel Rod,0.719,kg,False
+BOM-000559,SKU-000137,Neodymium Magnet,3.109,pcs,False
+BOM-000560,SKU-000137,Aluminum Extrusion,0.21,kg,True
+BOM-000561,SKU-000137,Titanium Sheet,1.024,kg,False
+BOM-000562,SKU-000137,Nickel Plating Solution,2.889,L,True
+BOM-000563,SKU-000137,Brass Tube,4.54,kg,False
+BOM-000564,SKU-000138,Epoxy Resin,4.794,kg,False
+BOM-000565,SKU-000138,Lubricant Grease (Lithium),0.609,L,False
+BOM-000566,SKU-000138,HDPE Granules,0.238,kg,True
+BOM-000567,SKU-000138,Titanium Sheet,3.633,kg,False
+BOM-000568,SKU-000139,Neodymium Magnet,4.808,pcs,False
+BOM-000569,SKU-000139,Flux Core Wire,2.145,m,True
+BOM-000570,SKU-000139,Nickel Plating Solution,3.657,L,True
+BOM-000571,SKU-000139,Powder Coat (RAL 7035),3.713,kg,False
+BOM-000572,SKU-000140,Steel Sheet (HR),4.858,kg,False
+BOM-000573,SKU-000140,O-Ring (Viton),2.721,pcs,False
+BOM-000574,SKU-000140,Spring Wire (Music Wire),3.993,m,True
+BOM-000575,SKU-000140,Hydraulic Fluid ISO-46,0.098,L,True
+BOM-000576,SKU-000140,Ceramic Substrate,3.699,pcs,False
+BOM-000577,SKU-000141,Carbon Steel Rod,3.506,kg,False
+BOM-000578,SKU-000141,Hydraulic Fluid ISO-46,1.383,L,False
+BOM-000579,SKU-000142,Stainless Steel 316,0.068,kg,False
+BOM-000580,SKU-000142,Nylon 6/6 Pellets,3.859,kg,True
+BOM-000581,SKU-000143,Epoxy Resin,4.395,kg,False
+BOM-000582,SKU-000143,Resistor (SMD),2.518,pcs,False
+BOM-000583,SKU-000143,Powder Coat (RAL 7035),4.252,kg,False
+BOM-000584,SKU-000143,Polycarbonate Resin,3.071,kg,False
+BOM-000585,SKU-000144,Lubricant Grease (Lithium),2.973,L,True
+BOM-000586,SKU-000144,Resistor (SMD),2.894,pcs,True
+BOM-000587,SKU-000144,Brass Tube,0.263,kg,True
+BOM-000588,SKU-000144,Steel Sheet (HR),4.07,kg,True
+BOM-000589,SKU-000144,Thermal Paste,3.372,g,False
+BOM-000590,SKU-000145,O-Ring (Viton),2.197,pcs,False
+BOM-000591,SKU-000145,Silicone Rubber Compound,0.904,kg,True
+BOM-000592,SKU-000145,Polyurethane Foam,1.013,kg,True
+BOM-000593,SKU-000146,Solder Paste SAC305,1.283,g,False
+BOM-000594,SKU-000146,Capacitor (SMD),2.09,pcs,False
+BOM-000595,SKU-000146,Polyurethane Foam,1.366,kg,False
+BOM-000596,SKU-000146,Ceramic Substrate,0.273,pcs,False
+BOM-000597,SKU-000146,Polycarbonate Resin,0.875,kg,False
+BOM-000598,SKU-000146,Powder Coat (RAL 7035),3.476,kg,False
+BOM-000599,SKU-000147,IC Chip Package,3.84,pcs,False
+BOM-000600,SKU-000147,Brass Tube,3.52,kg,False
+BOM-000601,SKU-000147,Solder Paste SAC305,3.887,g,True
+BOM-000602,SKU-000147,HDPE Granules,4.465,kg,False
+BOM-000603,SKU-000147,Ceramic Substrate,3.379,pcs,False
+BOM-000604,SKU-000148,Flux Core Wire,4.361,m,False
+BOM-000605,SKU-000148,Nylon 6/6 Pellets,1.444,kg,True
+BOM-000606,SKU-000148,Aluminum Extrusion,0.172,kg,True
+BOM-000607,SKU-000148,Aluminum Plate 6061,3.306,kg,False
+BOM-000608,SKU-000149,Stainless Steel 316,1.173,kg,False
+BOM-000609,SKU-000149,Bearing Ball (Chrome Steel),1.863,pcs,True
+BOM-000610,SKU-000150,Brass Tube,3.567,kg,False
+BOM-000611,SKU-000150,O-Ring (Viton),3.14,pcs,False
+BOM-000612,SKU-000151,ABS Pellets,0.103,kg,False
+BOM-000613,SKU-000151,Aluminum Plate 6061,4.348,kg,True
+BOM-000614,SKU-000152,Stainless Steel 304,1.584,kg,False
+BOM-000615,SKU-000152,Neodymium Magnet,4.768,pcs,False
+BOM-000616,SKU-000152,Connector Housing,1.91,pcs,False
+BOM-000617,SKU-000152,Ferrite Core,2.305,pcs,False
+BOM-000618,SKU-000152,Aluminum Plate 6061,3.433,kg,False
+BOM-000619,SKU-000152,Brass Tube,3.854,kg,False
+BOM-000620,SKU-000153,Hydraulic Fluid ISO-46,2.706,L,False
+BOM-000621,SKU-000153,Flux Core Wire,0.85,m,False
+BOM-000622,SKU-000153,Spring Wire (Music Wire),2.477,m,False
+BOM-000623,SKU-000153,Titanium Sheet,3.556,kg,True
+BOM-000624,SKU-000153,Lubricant Grease (Lithium),3.616,L,False
+BOM-000625,SKU-000153,Nylon 6/6 Pellets,0.959,kg,False
+BOM-000626,SKU-000154,Spring Wire (Music Wire),1.94,m,False
+BOM-000627,SKU-000154,Neodymium Magnet,0.133,pcs,True
+BOM-000628,SKU-000154,Flux Core Wire,1.433,m,True
+BOM-000629,SKU-000155,Gasket Material (PTFE),0.2,pcs,False
+BOM-000630,SKU-000155,Spring Wire (Music Wire),4.41,m,False
+BOM-000631,SKU-000156,O-Ring (Viton),1.463,pcs,True
+BOM-000632,SKU-000156,Silicone Rubber Compound,2.307,kg,False
+BOM-000633,SKU-000156,Polycarbonate Resin,3.431,kg,False
+BOM-000634,SKU-000156,IC Chip Package,1.714,pcs,True
+BOM-000635,SKU-000157,IC Chip Package,2.194,pcs,True
+BOM-000636,SKU-000157,Steel Sheet (CR),4.868,kg,False
+BOM-000637,SKU-000158,Ceramic Substrate,0.609,pcs,False
+BOM-000638,SKU-000158,O-Ring (Viton),3.815,pcs,False
+BOM-000639,SKU-000158,Stainless Steel 316,0.248,kg,False
+BOM-000640,SKU-000158,Carbon Steel Rod,2.578,kg,False
+BOM-000641,SKU-000159,O-Ring (Viton),2.322,pcs,False
+BOM-000642,SKU-000159,Copper Wire AWG-18,0.281,m,False
+BOM-000643,SKU-000159,Flux Core Wire,2.569,m,False
+BOM-000644,SKU-000159,Bearing Ball (Chrome Steel),0.202,pcs,True
+BOM-000645,SKU-000159,Aluminum Extrusion,3.284,kg,False
+BOM-000646,SKU-000160,Capacitor (SMD),2.572,pcs,False
+BOM-000647,SKU-000160,Powder Coat (RAL 7035),0.356,kg,True
+BOM-000648,SKU-000160,Spring Wire (Music Wire),1.488,m,False
+BOM-000649,SKU-000161,Resistor (SMD),0.58,pcs,False
+BOM-000650,SKU-000161,HDPE Granules,0.657,kg,False
+BOM-000651,SKU-000161,Lubricant Grease (Lithium),3.789,L,False
+BOM-000652,SKU-000161,Nickel Plating Solution,1.791,L,False
+BOM-000653,SKU-000161,Brass Tube,1.715,kg,False
+BOM-000654,SKU-000161,Epoxy Resin,1.01,kg,False
+BOM-000655,SKU-000162,Aluminum Extrusion,4.023,kg,False
+BOM-000656,SKU-000162,Silicone Rubber Compound,1.925,kg,True
+BOM-000657,SKU-000162,Nickel Plating Solution,1.839,L,False
+BOM-000658,SKU-000162,Polyurethane Foam,2.486,kg,True
+BOM-000659,SKU-000162,Brass Tube,3.804,kg,False
+BOM-000660,SKU-000163,IC Chip Package,4.038,pcs,False
+BOM-000661,SKU-000163,Nickel Plating Solution,2.15,L,False
+BOM-000662,SKU-000163,FR4 Laminate,3.239,pcs,False
+BOM-000663,SKU-000164,HDPE Granules,4.675,kg,False
+BOM-000664,SKU-000164,IC Chip Package,3.258,pcs,False
+BOM-000665,SKU-000164,Stainless Steel 316,0.73,kg,True
+BOM-000666,SKU-000164,Nylon 6/6 Pellets,3.261,kg,True
+BOM-000667,SKU-000164,Steel Sheet (CR),3.374,kg,False
+BOM-000668,SKU-000164,Aluminum Extrusion,1.247,kg,False
+BOM-000669,SKU-000165,Hydraulic Fluid ISO-46,4.957,L,True
+BOM-000670,SKU-000165,IC Chip Package,4.643,pcs,False
+BOM-000671,SKU-000165,Powder Coat (RAL 7035),0.489,kg,False
+BOM-000672,SKU-000165,Connector Housing,4.376,pcs,False
+BOM-000673,SKU-000165,FR4 Laminate,2.798,pcs,False
+BOM-000674,SKU-000165,Steel Sheet (HR),1.493,kg,False
+BOM-000675,SKU-000166,Aluminum Extrusion,3.255,kg,False
+BOM-000676,SKU-000166,Stainless Steel 304,3.658,kg,False
+BOM-000677,SKU-000166,Copper Bus Bar,0.677,kg,True
+BOM-000678,SKU-000167,Thermal Paste,2.383,g,False
+BOM-000679,SKU-000167,Ceramic Substrate,2.582,pcs,False
+BOM-000680,SKU-000168,Hydraulic Fluid ISO-46,2.966,L,True
+BOM-000681,SKU-000168,Flux Core Wire,0.273,m,True
+BOM-000682,SKU-000168,Solder Paste SAC305,1.205,g,False
+BOM-000683,SKU-000168,Capacitor (SMD),0.973,pcs,False
+BOM-000684,SKU-000168,Ceramic Substrate,4.306,pcs,True
+BOM-000685,SKU-000168,Aluminum Plate 6061,2.364,kg,False
+BOM-000686,SKU-000169,Resistor (SMD),1.866,pcs,False
+BOM-000687,SKU-000169,Epoxy Resin,1.046,kg,True
+BOM-000688,SKU-000170,Resistor (SMD),4.468,pcs,False
+BOM-000689,SKU-000170,Nylon 6/6 Pellets,0.265,kg,True
+BOM-000690,SKU-000170,Titanium Sheet,2.483,kg,True
+BOM-000691,SKU-000170,Ceramic Substrate,1.046,pcs,True
+BOM-000692,SKU-000171,Bearing Ball (Chrome Steel),1.102,pcs,False
+BOM-000693,SKU-000171,Steel Sheet (CR),4.488,kg,False
+BOM-000694,SKU-000172,Lubricant Grease (Lithium),3.043,L,False
+BOM-000695,SKU-000172,Polycarbonate Resin,2.178,kg,False
+BOM-000696,SKU-000172,Aluminum Extrusion,3.865,kg,False
+BOM-000697,SKU-000172,IC Chip Package,4.063,pcs,False
+BOM-000698,SKU-000172,ABS Pellets,4.376,kg,False
+BOM-000699,SKU-000172,Epoxy Resin,0.771,kg,False
+BOM-000700,SKU-000173,Nylon 6/6 Pellets,2.896,kg,False
+BOM-000701,SKU-000173,FR4 Laminate,0.424,pcs,False
+BOM-000702,SKU-000173,HDPE Granules,0.087,kg,True
+BOM-000703,SKU-000173,Spring Wire (Music Wire),1.13,m,True
+BOM-000704,SKU-000174,Polycarbonate Resin,1.159,kg,True
+BOM-000705,SKU-000174,Silicone Rubber Compound,4.288,kg,False
+BOM-000706,SKU-000174,Hydraulic Fluid ISO-46,1.936,L,False
+BOM-000707,SKU-000174,Steel Sheet (HR),4.347,kg,True
+BOM-000708,SKU-000175,Gasket Material (PTFE),1.053,pcs,False
+BOM-000709,SKU-000175,Ceramic Substrate,2.901,pcs,False
+BOM-000710,SKU-000176,Gasket Material (PTFE),4.594,pcs,True
+BOM-000711,SKU-000176,HDPE Granules,0.138,kg,False
+BOM-000712,SKU-000176,Steel Sheet (HR),1.942,kg,True
+BOM-000713,SKU-000176,Resistor (SMD),0.837,pcs,False
+BOM-000714,SKU-000176,Solder Paste SAC305,2.82,g,True
+BOM-000715,SKU-000177,Steel Sheet (CR),0.29,kg,True
+BOM-000716,SKU-000177,Lubricant Grease (Lithium),1.706,L,False
+BOM-000717,SKU-000177,Copper Wire AWG-18,4.454,m,False
+BOM-000718,SKU-000177,Paint Primer (Zinc),2.395,kg,True
+BOM-000719,SKU-000177,Spring Wire (Music Wire),3.446,m,False
+BOM-000720,SKU-000177,FR4 Laminate,0.68,pcs,False
+BOM-000721,SKU-000178,Connector Housing,0.636,pcs,False
+BOM-000722,SKU-000178,IC Chip Package,4.609,pcs,False
+BOM-000723,SKU-000178,Stainless Steel 316,2.044,kg,False
+BOM-000724,SKU-000179,Unconsumed-Alloy-009,4.666,pcs,False
+BOM-000725,SKU-000179,Resistor (SMD),0.772,pcs,True
+BOM-000726,SKU-000179,Flux Core Wire,4.383,m,True
+BOM-000727,SKU-000179,Stainless Steel 304,0.476,kg,False
+BOM-000728,SKU-000180,Titanium Sheet,4.795,kg,False
+BOM-000729,SKU-000180,Lubricant Grease (Lithium),4.115,L,False
+BOM-000730,SKU-000180,Polyurethane Foam,4.605,kg,True
+BOM-000731,SKU-000180,Gasket Material (PTFE),4.636,pcs,True
+BOM-000732,SKU-000181,Paint Primer (Zinc),0.121,kg,False
+BOM-000733,SKU-000181,Unconsumed-Alloy-007,4.615,kg,True
+BOM-000734,SKU-000181,Gasket Material (PTFE),3.919,pcs,False
+BOM-000735,SKU-000181,Resistor (SMD),2.198,pcs,False
+BOM-000736,SKU-000182,Solder Paste SAC305,3.8,g,True
+BOM-000737,SKU-000182,Ceramic Substrate,1.191,pcs,False
+BOM-000738,SKU-000182,Copper Bus Bar,0.892,kg,True
+BOM-000739,SKU-000182,Aluminum Plate 6061,0.512,kg,False
+BOM-000740,SKU-000183,Flux Core Wire,3.166,m,True
+BOM-000741,SKU-000183,Thermal Paste,3.143,g,False
+BOM-000742,SKU-000183,Stainless Steel 304,2.047,kg,True
+BOM-000743,SKU-000184,Epoxy Resin,4.664,kg,False
+BOM-000744,SKU-000184,Nylon 6/6 Pellets,0.379,kg,False
+BOM-000745,SKU-000184,Polyurethane Foam,2.309,kg,False
+BOM-000746,SKU-000184,Brass Tube,0.581,kg,False
+BOM-000747,SKU-000184,Flux Core Wire,1.334,m,False
+BOM-000748,SKU-000184,Anodize Solution,2.011,L,False
+BOM-000749,SKU-000185,FR4 Laminate,4.729,pcs,False
+BOM-000750,SKU-000185,Ceramic Substrate,2.395,pcs,False
+BOM-000751,SKU-000185,O-Ring (Viton),0.545,pcs,False
+BOM-000752,SKU-000186,Polycarbonate Resin,3.311,kg,False
+BOM-000753,SKU-000186,Capacitor (SMD),3.143,pcs,False
+BOM-000754,SKU-000186,Hydraulic Fluid ISO-46,1.617,L,False
+BOM-000755,SKU-000186,Nylon 6/6 Pellets,4.14,kg,False
+BOM-000756,SKU-000187,Brass Tube,0.864,kg,False
+BOM-000757,SKU-000187,Lubricant Grease (Lithium),1.016,L,False
+BOM-000758,SKU-000187,Copper Wire AWG-18,1.201,m,False
+BOM-000759,SKU-000187,Titanium Sheet,1.938,kg,False
+BOM-000760,SKU-000187,HDPE Granules,3.804,kg,False
+BOM-000761,SKU-000188,Epoxy Resin,4.435,kg,False
+BOM-000762,SKU-000188,Capacitor (SMD),0.796,pcs,False
+BOM-000763,SKU-000188,Adhesive (Cyanoacrylate),4.309,g,True
+BOM-000764,SKU-000189,Silicone Rubber Compound,1.706,kg,True
+BOM-000765,SKU-000189,Solder Paste SAC305,2.427,g,False
+BOM-000766,SKU-000190,Epoxy Resin,2.635,kg,True
+BOM-000767,SKU-000190,Copper Bus Bar,4.963,kg,True
+BOM-000768,SKU-000190,Steel Sheet (CR),0.128,kg,False
+BOM-000769,SKU-000190,Nickel Plating Solution,4.514,L,False
+BOM-000770,SKU-000191,Bearing Ball (Chrome Steel),2.085,pcs,False
+BOM-000771,SKU-000191,IC Chip Package,0.523,pcs,False
+BOM-000772,SKU-000191,Capacitor (SMD),2.434,pcs,False
+BOM-000773,SKU-000191,Neodymium Magnet,4.665,pcs,False
+BOM-000774,SKU-000191,Anodize Solution,3.27,L,True
+BOM-000775,SKU-000192,Paint Primer (Zinc),1.011,kg,False
+BOM-000776,SKU-000192,HDPE Granules,4.339,kg,False
+BOM-000777,SKU-000192,Epoxy Resin,2.939,kg,False
+BOM-000778,SKU-000192,Unconsumed-Alloy-008,2.123,pcs,True
+BOM-000779,SKU-000193,Aluminum Extrusion,3.554,kg,False
+BOM-000780,SKU-000193,Steel Sheet (HR),1.538,kg,True
+BOM-000781,SKU-000193,Thermal Paste,0.969,g,False
+BOM-000782,SKU-000193,Stainless Steel 316,2.021,kg,False
+BOM-000783,SKU-000193,Neodymium Magnet,3.591,pcs,False
+BOM-000784,SKU-000194,Steel Sheet (HR),1.151,kg,False
+BOM-000785,SKU-000194,Stainless Steel 304,3.606,kg,False
+BOM-000786,SKU-000194,Carbon Steel Rod,2.823,kg,False
+BOM-000787,SKU-000194,Polyurethane Foam,2.4,kg,False
+BOM-000788,SKU-000194,ABS Pellets,0.566,kg,True
+BOM-000789,SKU-000194,IC Chip Package,3.902,pcs,False
+BOM-000790,SKU-000195,Capacitor (SMD),1.053,pcs,True
+BOM-000791,SKU-000195,Connector Housing,1.953,pcs,False
+BOM-000792,SKU-000195,Hydraulic Fluid ISO-46,0.343,L,False
+BOM-000793,SKU-000196,Copper Wire AWG-18,2.063,m,True
+BOM-000794,SKU-000196,HDPE Granules,4.952,kg,False
+BOM-000795,SKU-000196,Polycarbonate Resin,1.926,kg,False
+BOM-000796,SKU-000196,Aluminum Plate 6061,0.616,kg,False
+BOM-000797,SKU-000196,Capacitor (SMD),3.237,pcs,False
+BOM-000798,SKU-000196,Steel Sheet (HR),0.546,kg,False
+BOM-000799,SKU-000197,Spring Wire (Music Wire),4.605,m,False
+BOM-000800,SKU-000197,Polyurethane Foam,2.203,kg,False
+BOM-000801,SKU-000198,Lubricant Grease (Lithium),4.042,L,False
+BOM-000802,SKU-000198,Spring Wire (Music Wire),2.136,m,False
+BOM-000803,SKU-000198,Bearing Ball (Chrome Steel),3.216,pcs,False
+BOM-000804,SKU-000198,Stainless Steel 316,1.383,kg,True
+BOM-000805,SKU-000198,Capacitor (SMD),4.686,pcs,False
+BOM-000806,SKU-000199,Silicone Rubber Compound,0.156,kg,True
+BOM-000807,SKU-000199,Polyurethane Foam,2.207,kg,True
+BOM-000808,SKU-000199,Paint Primer (Zinc),3.784,kg,False
+BOM-000809,SKU-000199,Flux Core Wire,3.439,m,True
+BOM-000810,SKU-000200,Carbon Steel Rod,3.446,kg,False
+BOM-000811,SKU-000200,Copper Bus Bar,0.63,kg,False
+BOM-000812,SKU-000200,Ferrite Core,4.401,pcs,False
+BOM-000813,SKU-000200,IC Chip Package,4.535,pcs,True
+BOM-000814,SKU-000200,Anodize Solution,1.894,L,False
+BOM-000815,SKU-000200,Resistor (SMD),1.229,pcs,False

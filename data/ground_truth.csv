@@ -1,0 +1,26 @@
+anomaly_id,anomaly_type,entity_type,entity_id,field_name,anomalous_value,expected_behavior,injected_at
+ANOM-0001,defect_linked_to_nonexistent_lot,defects,DEF-2026-000696,lot_id,LOT-SUP-999999-2026-000001,lot_id should reference an existing material lot (original: LOT-SUP-000021-2026-000001),2026-10-22 12:00:00
+ANOM-0002,defect_linked_to_nonexistent_lot,defects,DEF-2026-003338,lot_id,LOT-SUP-999999-2026-000002,lot_id should reference an existing material lot (original: LOT-SUP-000042-2026-000033),2026-10-22 12:00:00
+ANOM-0003,defect_linked_to_nonexistent_lot,defects,DEF-2026-002475,lot_id,LOT-SUP-999999-2026-000003,lot_id should reference an existing material lot (original: LOT-SUP-000045-2026-000033),2026-10-22 12:00:00
+ANOM-0004,defect_linked_to_nonexistent_lot,defects,DEF-2026-000888,lot_id,LOT-SUP-999999-2026-000004,lot_id should reference an existing material lot (original: LOT-SUP-000033-2026-000020),2026-10-22 12:00:00
+ANOM-0005,defect_linked_to_nonexistent_lot,defects,DEF-2026-003599,lot_id,LOT-SUP-999999-2026-000005,lot_id should reference an existing material lot (original: LOT-SUP-000001-2026-000025),2026-10-22 12:00:00
+ANOM-0006,bom_component_never_consumed,bom,BOM-000305,material_name,Unconsumed-Alloy-006,BOM component should be consumed in production orders (original: O-Ring (Viton)),2026-10-22 12:00:00
+ANOM-0007,bom_component_never_consumed,bom,BOM-000733,material_name,Unconsumed-Alloy-007,BOM component should be consumed in production orders (original: HDPE Granules),2026-10-22 12:00:00
+ANOM-0008,bom_component_never_consumed,bom,BOM-000778,material_name,Unconsumed-Alloy-008,BOM component should be consumed in production orders (original: Connector Housing),2026-10-22 12:00:00
+ANOM-0009,bom_component_never_consumed,bom,BOM-000724,material_name,Unconsumed-Alloy-009,BOM component should be consumed in production orders (original: IC Chip Package),2026-10-22 12:00:00
+ANOM-0010,bom_component_never_consumed,bom,BOM-000010,material_name,Unconsumed-Alloy-010,BOM component should be consumed in production orders (original: Silicone Rubber Compound),2026-10-22 12:00:00
+ANOM-0011,capa_closed_before_verification,corrective_actions,CAPA-2026-000575,status,Closed (verification_date is NULL),CAPA status can become 'Closed' only after verification_date is populated,2026-10-22 12:00:00
+ANOM-0012,capa_closed_before_verification,corrective_actions,CAPA-2026-000294,status,Closed (verification_date is NULL),CAPA status can become 'Closed' only after verification_date is populated,2026-10-22 12:00:00
+ANOM-0013,capa_closed_before_verification,corrective_actions,CAPA-2026-000921,status,Closed (verification_date is NULL),CAPA status can become 'Closed' only after verification_date is populated,2026-10-22 12:00:00
+ANOM-0014,capa_closed_before_verification,corrective_actions,CAPA-2026-001417,status,Closed (verification_date is NULL),CAPA status can become 'Closed' only after verification_date is populated,2026-10-22 12:00:00
+ANOM-0015,capa_closed_before_verification,corrective_actions,CAPA-2026-000493,status,Closed (verification_date is NULL),CAPA status can become 'Closed' only after verification_date is populated,2026-10-22 12:00:00
+ANOM-0016,defect_qty_exceeds_inspected_qty,defects,DEF-2026-001315,defect_quantity,57,"defect_quantity (57) must be <= inspected_quantity (8, was 2)",2026-10-22 12:00:00
+ANOM-0017,defect_qty_exceeds_inspected_qty,defects,DEF-2026-003403,defect_quantity,100,"defect_quantity (100) must be <= inspected_quantity (55, was 5)",2026-10-22 12:00:00
+ANOM-0018,defect_qty_exceeds_inspected_qty,defects,DEF-2026-000485,defect_quantity,87,"defect_quantity (87) must be <= inspected_quantity (58, was 25)",2026-10-22 12:00:00
+ANOM-0019,defect_qty_exceeds_inspected_qty,defects,DEF-2026-003381,defect_quantity,138,"defect_quantity (138) must be <= inspected_quantity (127, was 2)",2026-10-22 12:00:00
+ANOM-0020,defect_qty_exceeds_inspected_qty,defects,DEF-2026-001524,defect_quantity,64,"defect_quantity (64) must be <= inspected_quantity (23, was 5)",2026-10-22 12:00:00
+ANOM-0021,broken_traceability_chain,defects,DEF-2026-003961,step_id,STEP-WO-2026-999999-999,step_id should reference an existing process step (original: STEP-WO-2026-004919-007),2026-10-22 12:00:00
+ANOM-0022,broken_traceability_chain,defects,DEF-2026-002808,step_id,STEP-WO-2026-999999-999,step_id should reference an existing process step (original: STEP-WO-2026-004015-006),2026-10-22 12:00:00
+ANOM-0023,broken_traceability_chain,defects,DEF-2026-000041,step_id,STEP-WO-2026-999999-999,step_id should reference an existing process step (original: STEP-WO-2026-000255-005),2026-10-22 12:00:00
+ANOM-0024,broken_traceability_chain,defects,DEF-2026-002198,step_id,STEP-WO-2026-999999-999,step_id should reference an existing process step (original: STEP-WO-2026-000757-008),2026-10-22 12:00:00
+ANOM-0025,broken_traceability_chain,defects,DEF-2026-002360,step_id,STEP-WO-2026-999999-999,step_id should reference an existing process step (original: STEP-WO-2026-001606-001),2026-10-22 12:00:00

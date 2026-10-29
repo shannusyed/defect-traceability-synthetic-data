@@ -1,0 +1,409 @@
+plan_id,sku_id,inspection_type,criteria,sampling_rate,active
+PLAN-000001,SKU-000001,Dimensional,Standard Dimensional criteria for Proportional Valve,86.2,True
+PLAN-000002,SKU-000001,In-Process,Standard In-Process criteria for Proportional Valve,27.7,True
+PLAN-000003,SKU-000002,Functional,Standard Functional criteria for Signal Processor,50.8,True
+PLAN-000004,SKU-000002,In-Process,Standard In-Process criteria for Signal Processor,33.8,True
+PLAN-000005,SKU-000003,Incoming Material,Standard Incoming Material criteria for Guard Panel,10.0,True
+PLAN-000006,SKU-000003,Final,Standard Final criteria for Guard Panel,42.8,True
+PLAN-000007,SKU-000004,Dimensional,Standard Dimensional criteria for Accumulator Assembly,65.7,True
+PLAN-000008,SKU-000004,Visual,Standard Visual criteria for Accumulator Assembly,40.9,True
+PLAN-000009,SKU-000005,In-Process,Standard In-Process criteria for Hydraulic Power Pack,41.6,True
+PLAN-000010,SKU-000005,Functional,Standard Functional criteria for Hydraulic Power Pack,95.4,True
+PLAN-000011,SKU-000006,Visual,Standard Visual criteria for Motor Driver PCB,95.0,True
+PLAN-000012,SKU-000006,In-Process,Standard In-Process criteria for Motor Driver PCB,98.6,True
+PLAN-000013,SKU-000007,Functional,Standard Functional criteria for I/O Interface Board,53.4,True
+PLAN-000014,SKU-000007,Incoming Material,Standard Incoming Material criteria for I/O Interface Board,36.9,True
+PLAN-000015,SKU-000007,Visual,Standard Visual criteria for I/O Interface Board,99.2,True
+PLAN-000016,SKU-000008,In-Process,Standard In-Process criteria for Power Supply Unit,89.2,True
+PLAN-000017,SKU-000008,Dimensional,Standard Dimensional criteria for Power Supply Unit,54.5,True
+PLAN-000018,SKU-000008,Incoming Material,Standard Incoming Material criteria for Power Supply Unit,43.5,True
+PLAN-000019,SKU-000009,Functional,Standard Functional criteria for Mounting Bracket,39.2,True
+PLAN-000020,SKU-000009,Final,Standard Final criteria for Mounting Bracket,25.8,True
+PLAN-000021,SKU-000010,In-Process,Standard In-Process criteria for AC Induction Motor,47.3,True
+PLAN-000022,SKU-000010,Destructive Test,Standard Destructive Test criteria for AC Induction Motor,11.9,True
+PLAN-000023,SKU-000011,Final,Standard Final criteria for Main Control Board,91.2,True
+PLAN-000024,SKU-000011,Incoming Material,Standard Incoming Material criteria for Main Control Board,74.7,True
+PLAN-000025,SKU-000011,In-Process,Standard In-Process criteria for Main Control Board,62.6,True
+PLAN-000026,SKU-000012,Destructive Test,Standard Destructive Test criteria for Air-Cooled Heat Sink,18.8,True
+PLAN-000027,SKU-000013,Functional,Standard Functional criteria for Connector Housing,76.5,True
+PLAN-000028,SKU-000013,Destructive Test,Standard Destructive Test criteria for Connector Housing,91.4,True
+PLAN-000029,SKU-000013,In-Process,Standard In-Process criteria for Connector Housing,92.9,True
+PLAN-000030,SKU-000014,Final,Standard Final criteria for LED Driver Board,76.1,True
+PLAN-000031,SKU-000014,Incoming Material,Standard Incoming Material criteria for LED Driver Board,52.3,True
+PLAN-000032,SKU-000014,Functional,Standard Functional criteria for LED Driver Board,36.7,True
+PLAN-000033,SKU-000015,In-Process,Standard In-Process criteria for Oil Cooler Unit,49.8,True
+PLAN-000034,SKU-000015,Incoming Material,Standard Incoming Material criteria for Oil Cooler Unit,85.5,True
+PLAN-000035,SKU-000015,Visual,Standard Visual criteria for Oil Cooler Unit,31.1,True
+PLAN-000036,SKU-000016,Dimensional,Standard Dimensional criteria for Plate Heat Exchanger,66.5,True
+PLAN-000037,SKU-000017,Functional,Standard Functional criteria for Pressure Relief Valve,36.7,True
+PLAN-000038,SKU-000017,In-Process,Standard In-Process criteria for Pressure Relief Valve,22.5,True
+PLAN-000039,SKU-000018,Functional,Standard Functional criteria for Bevel Gear Drive,22.2,True
+PLAN-000040,SKU-000019,Dimensional,Standard Dimensional criteria for Proximity Sensor Unit,47.7,True
+PLAN-000041,SKU-000019,In-Process,Standard In-Process criteria for Proximity Sensor Unit,67.0,True
+PLAN-000042,SKU-000019,Destructive Test,Standard Destructive Test criteria for Proximity Sensor Unit,26.5,True
+PLAN-000043,SKU-000020,Destructive Test,Standard Destructive Test criteria for Solenoid Valve 5/2,92.1,True
+PLAN-000044,SKU-000021,Functional,Standard Functional criteria for Sensor Cable Assembly,70.0,True
+PLAN-000045,SKU-000021,Final,Standard Final criteria for Sensor Cable Assembly,21.8,True
+PLAN-000046,SKU-000022,Functional,Standard Functional criteria for Communication Interface,56.5,True
+PLAN-000047,SKU-000022,Incoming Material,Standard Incoming Material criteria for Communication Interface,73.4,True
+PLAN-000048,SKU-000022,Destructive Test,Standard Destructive Test criteria for Communication Interface,31.8,True
+PLAN-000049,SKU-000023,In-Process,Standard In-Process criteria for Display Module,90.6,True
+PLAN-000050,SKU-000024,Dimensional,Standard Dimensional criteria for Power Distribution Panel,21.2,True
+PLAN-000051,SKU-000024,Visual,Standard Visual criteria for Power Distribution Panel,33.4,True
+PLAN-000052,SKU-000025,Incoming Material,Standard Incoming Material criteria for Main Control Panel,73.0,True
+PLAN-000053,SKU-000025,Visual,Standard Visual criteria for Main Control Panel,79.8,True
+PLAN-000054,SKU-000026,Visual,Standard Visual criteria for Enclosure Shell,16.5,True
+PLAN-000055,SKU-000026,In-Process,Standard In-Process criteria for Enclosure Shell,63.2,True
+PLAN-000056,SKU-000027,Incoming Material,Standard Incoming Material criteria for Manifold Block,32.3,True
+PLAN-000057,SKU-000028,Incoming Material,Standard Incoming Material criteria for Flow Control Valve,45.2,True
+PLAN-000058,SKU-000029,Incoming Material,Standard Incoming Material criteria for Operator Interface Panel,78.3,True
+PLAN-000059,SKU-000029,Final,Standard Final criteria for Operator Interface Panel,45.2,True
+PLAN-000060,SKU-000030,In-Process,Standard In-Process criteria for Fan Shroud,63.2,True
+PLAN-000061,SKU-000030,Visual,Standard Visual criteria for Fan Shroud,85.1,True
+PLAN-000062,SKU-000030,Destructive Test,Standard Destructive Test criteria for Fan Shroud,51.2,True
+PLAN-000063,SKU-000031,Dimensional,Standard Dimensional criteria for Main Wiring Harness,48.8,True
+PLAN-000064,SKU-000032,Functional,Standard Functional criteria for Chassis Frame,12.3,True
+PLAN-000065,SKU-000033,Destructive Test,Standard Destructive Test criteria for Centrifugal Pump,69.1,True
+PLAN-000066,SKU-000034,In-Process,Standard In-Process criteria for Reinforcement Rib,66.2,True
+PLAN-000067,SKU-000035,Dimensional,Standard Dimensional criteria for Cable Gland Body,35.0,True
+PLAN-000068,SKU-000036,Dimensional,Standard Dimensional criteria for Gear Pump Assembly,60.7,True
+PLAN-000069,SKU-000036,Final,Standard Final criteria for Gear Pump Assembly,21.1,True
+PLAN-000070,SKU-000036,In-Process,Standard In-Process criteria for Gear Pump Assembly,60.3,True
+PLAN-000071,SKU-000037,Dimensional,Standard Dimensional criteria for Sensor Array Board,96.3,True
+PLAN-000072,SKU-000038,Final,Standard Final criteria for Button Cap Set,54.4,True
+PLAN-000073,SKU-000039,Destructive Test,Standard Destructive Test criteria for Brushless DC Motor,96.1,True
+PLAN-000074,SKU-000040,Functional,Standard Functional criteria for Cycloidal Reducer,73.0,True
+PLAN-000075,SKU-000040,Incoming Material,Standard Incoming Material criteria for Cycloidal Reducer,38.2,True
+PLAN-000076,SKU-000040,Final,Standard Final criteria for Cycloidal Reducer,43.4,True
+PLAN-000077,SKU-000041,Destructive Test,Standard Destructive Test criteria for Sensor Fusion Board,36.3,True
+PLAN-000078,SKU-000041,Functional,Standard Functional criteria for Sensor Fusion Board,43.2,True
+PLAN-000079,SKU-000042,Incoming Material,Standard Incoming Material criteria for Pressure Transducer,22.9,True
+PLAN-000080,SKU-000043,Incoming Material,Standard Incoming Material criteria for Peristaltic Pump,30.3,True
+PLAN-000081,SKU-000044,Incoming Material,Standard Incoming Material criteria for Power Regulator PCB,71.4,True
+PLAN-000082,SKU-000045,Dimensional,Standard Dimensional criteria for Tapered Roller Bearing,43.3,True
+PLAN-000083,SKU-000045,Functional,Standard Functional criteria for Tapered Roller Bearing,76.4,True
+PLAN-000084,SKU-000046,Final,Standard Final criteria for Vibration Sensor Pack,20.8,True
+PLAN-000085,SKU-000046,In-Process,Standard In-Process criteria for Vibration Sensor Pack,88.8,True
+PLAN-000086,SKU-000046,Destructive Test,Standard Destructive Test criteria for Vibration Sensor Pack,64.4,True
+PLAN-000087,SKU-000047,In-Process,Standard In-Process criteria for Servo Motor Assembly,84.9,True
+PLAN-000088,SKU-000048,Incoming Material,Standard Incoming Material criteria for Deep Groove Ball Bearing,33.0,True
+PLAN-000089,SKU-000048,In-Process,Standard In-Process criteria for Deep Groove Ball Bearing,89.3,True
+PLAN-000090,SKU-000048,Final,Standard Final criteria for Deep Groove Ball Bearing,85.0,True
+PLAN-000091,SKU-000049,In-Process,Standard In-Process criteria for Coupling Flange,93.5,True
+PLAN-000092,SKU-000050,Visual,Standard Visual criteria for Housing Cover,5.7,True
+PLAN-000093,SKU-000050,Destructive Test,Standard Destructive Test criteria for Housing Cover,52.7,True
+PLAN-000094,SKU-000050,In-Process,Standard In-Process criteria for Housing Cover,96.9,True
+PLAN-000095,SKU-000051,Dimensional,Standard Dimensional criteria for Needle Bearing Unit,21.4,True
+PLAN-000096,SKU-000051,In-Process,Standard In-Process criteria for Needle Bearing Unit,96.0,True
+PLAN-000097,SKU-000051,Destructive Test,Standard Destructive Test criteria for Needle Bearing Unit,12.6,True
+PLAN-000098,SKU-000052,Destructive Test,Standard Destructive Test criteria for Structural Beam,24.0,True
+PLAN-000099,SKU-000052,In-Process,Standard In-Process criteria for Structural Beam,10.7,True
+PLAN-000100,SKU-000052,Functional,Standard Functional criteria for Structural Beam,57.4,True
+PLAN-000101,SKU-000053,Final,Standard Final criteria for Thrust Bearing Assembly,14.1,True
+PLAN-000102,SKU-000054,Functional,Standard Functional criteria for Diaphragm Pump,38.7,True
+PLAN-000103,SKU-000054,Dimensional,Standard Dimensional criteria for Diaphragm Pump,55.1,True
+PLAN-000104,SKU-000055,Destructive Test,Standard Destructive Test criteria for Control Signal Harness,5.9,True
+PLAN-000105,SKU-000055,Dimensional,Standard Dimensional criteria for Control Signal Harness,69.7,True
+PLAN-000106,SKU-000055,Final,Standard Final criteria for Control Signal Harness,10.2,True
+PLAN-000107,SKU-000056,Functional,Standard Functional criteria for Shielded Data Cable,88.1,True
+PLAN-000108,SKU-000057,Incoming Material,Standard Incoming Material criteria for Power Distribution Harness,90.9,True
+PLAN-000109,SKU-000058,Visual,Standard Visual criteria for Check Valve Assembly,84.0,True
+PLAN-000110,SKU-000059,Incoming Material,Standard Incoming Material criteria for Helical Gear Unit,56.8,True
+PLAN-000111,SKU-000059,Destructive Test,Standard Destructive Test criteria for Helical Gear Unit,41.0,True
+PLAN-000112,SKU-000059,Final,Standard Final criteria for Helical Gear Unit,48.4,True
+PLAN-000113,SKU-000060,Visual,Standard Visual criteria for Battery Harness,30.8,True
+PLAN-000114,SKU-000061,Incoming Material,Standard Incoming Material criteria for Linear Actuator,97.3,True
+PLAN-000115,SKU-000061,Visual,Standard Visual criteria for Linear Actuator,56.8,True
+PLAN-000116,SKU-000061,Final,Standard Final criteria for Linear Actuator,40.7,True
+PLAN-000117,SKU-000062,Final,Standard Final criteria for Motor Control Center,16.3,True
+PLAN-000118,SKU-000062,Incoming Material,Standard Incoming Material criteria for Motor Control Center,28.2,True
+PLAN-000119,SKU-000062,Destructive Test,Standard Destructive Test criteria for Motor Control Center,83.4,True
+PLAN-000120,SKU-000063,Functional,Standard Functional criteria for Directional Control Valve,36.8,True
+PLAN-000121,SKU-000064,Functional,Standard Functional criteria for Shell-and-Tube Exchanger,74.4,True
+PLAN-000122,SKU-000064,Final,Standard Final criteria for Shell-and-Tube Exchanger,76.4,True
+PLAN-000123,SKU-000065,Incoming Material,Standard Incoming Material criteria for Support Frame,71.2,True
+PLAN-000124,SKU-000065,Functional,Standard Functional criteria for Support Frame,30.3,True
+PLAN-000125,SKU-000066,Dimensional,Standard Dimensional criteria for Directional Spool Valve,23.0,True
+PLAN-000126,SKU-000067,Functional,Standard Functional criteria for Gear Motor Pack,89.7,True
+PLAN-000127,SKU-000067,Destructive Test,Standard Destructive Test criteria for Gear Motor Pack,23.5,True
+PLAN-000128,SKU-000067,Dimensional,Standard Dimensional criteria for Gear Motor Pack,53.2,True
+PLAN-000129,SKU-000068,Functional,Standard Functional criteria for Planetary Gear Box,83.6,True
+PLAN-000130,SKU-000068,Destructive Test,Standard Destructive Test criteria for Planetary Gear Box,53.1,True
+PLAN-000131,SKU-000068,Final,Standard Final criteria for Planetary Gear Box,31.6,True
+PLAN-000132,SKU-000069,Final,Standard Final criteria for Condenser Assembly,5.0,True
+PLAN-000133,SKU-000070,Visual,Standard Visual criteria for Flow Meter Assembly,5.2,True
+PLAN-000134,SKU-000070,In-Process,Standard In-Process criteria for Flow Meter Assembly,22.5,True
+PLAN-000135,SKU-000070,Functional,Standard Functional criteria for Flow Meter Assembly,43.7,True
+PLAN-000136,SKU-000071,Functional,Standard Functional criteria for Pivot Arm,70.4,True
+PLAN-000137,SKU-000072,Functional,Standard Functional criteria for Load Cell Module,97.2,True
+PLAN-000138,SKU-000072,Final,Standard Final criteria for Load Cell Module,32.4,True
+PLAN-000139,SKU-000073,Final,Standard Final criteria for Relay Control PCB,94.7,True
+PLAN-000140,SKU-000073,Dimensional,Standard Dimensional criteria for Relay Control PCB,19.1,True
+PLAN-000141,SKU-000074,Final,Standard Final criteria for Stepper Motor Unit,28.2,True
+PLAN-000142,SKU-000075,Final,Standard Final criteria for Hydraulic Cylinder,6.1,True
+PLAN-000143,SKU-000075,Incoming Material,Standard Incoming Material criteria for Hydraulic Cylinder,41.4,True
+PLAN-000144,SKU-000076,Incoming Material,Standard Incoming Material criteria for Worm Gear Reducer,12.2,True
+PLAN-000145,SKU-000076,In-Process,Standard In-Process criteria for Worm Gear Reducer,39.9,True
+PLAN-000146,SKU-000077,Visual,Standard Visual criteria for Vacuum Pump Module,17.2,True
+PLAN-000147,SKU-000077,Destructive Test,Standard Destructive Test criteria for Vacuum Pump Module,26.9,True
+PLAN-000148,SKU-000077,Final,Standard Final criteria for Vacuum Pump Module,5.7,True
+PLAN-000149,SKU-000078,Functional,Standard Functional criteria for Fin-Type Radiator,35.3,True
+PLAN-000150,SKU-000078,Incoming Material,Standard Incoming Material criteria for Fin-Type Radiator,49.5,True
+PLAN-000151,SKU-000078,Destructive Test,Standard Destructive Test criteria for Fin-Type Radiator,43.0,True
+PLAN-000152,SKU-000079,Destructive Test,Standard Destructive Test criteria for Spherical Roller Bearing,52.8,True
+PLAN-000153,SKU-000079,Visual,Standard Visual criteria for Spherical Roller Bearing,54.5,True
+PLAN-000154,SKU-000080,Dimensional,Standard Dimensional criteria for Hydraulic Motor,55.0,True
+PLAN-000155,SKU-000080,In-Process,Standard In-Process criteria for Hydraulic Motor,82.0,True
+PLAN-000156,SKU-000080,Destructive Test,Standard Destructive Test criteria for Hydraulic Motor,11.8,True
+PLAN-000157,SKU-000081,Dimensional,Standard Dimensional criteria for Safety Relay Panel,36.5,True
+PLAN-000158,SKU-000081,Functional,Standard Functional criteria for Safety Relay Panel,6.3,True
+PLAN-000159,SKU-000082,Destructive Test,Standard Destructive Test criteria for Mounting Plate,14.9,True
+PLAN-000160,SKU-000082,Visual,Standard Visual criteria for Mounting Plate,30.9,True
+PLAN-000161,SKU-000083,Dimensional,Standard Dimensional criteria for Remote I/O Panel,90.5,True
+PLAN-000162,SKU-000083,Functional,Standard Functional criteria for Remote I/O Panel,71.6,True
+PLAN-000163,SKU-000083,Final,Standard Final criteria for Remote I/O Panel,44.4,True
+PLAN-000164,SKU-000084,Functional,Standard Functional criteria for Piston Pump Unit,8.1,True
+PLAN-000165,SKU-000084,Destructive Test,Standard Destructive Test criteria for Piston Pump Unit,12.9,True
+PLAN-000166,SKU-000084,Final,Standard Final criteria for Piston Pump Unit,84.0,True
+PLAN-000167,SKU-000085,Functional,Standard Functional criteria for Hinge Assembly,74.4,True
+PLAN-000168,SKU-000085,Final,Standard Final criteria for Hinge Assembly,18.2,True
+PLAN-000169,SKU-000086,Dimensional,Standard Dimensional criteria for Spur Gear Train,88.4,True
+PLAN-000170,SKU-000087,In-Process,Standard In-Process criteria for Light Pipe Array,92.1,True
+PLAN-000171,SKU-000087,Destructive Test,Standard Destructive Test criteria for Light Pipe Array,80.8,True
+PLAN-000172,SKU-000088,Final,Standard Final criteria for Temperature Sensor Module,34.7,True
+PLAN-000173,SKU-000088,Visual,Standard Visual criteria for Temperature Sensor Module,93.7,True
+PLAN-000174,SKU-000088,Functional,Standard Functional criteria for Temperature Sensor Module,61.8,True
+PLAN-000175,SKU-000089,Final,Standard Final criteria for Linear Bearing Block,26.8,True
+PLAN-000176,SKU-000090,Visual,Standard Visual criteria for Drive Shaft,67.5,True
+PLAN-000177,SKU-000090,Dimensional,Standard Dimensional criteria for Drive Shaft,70.4,True
+PLAN-000178,SKU-000090,Final,Standard Final criteria for Drive Shaft,26.3,True
+PLAN-000179,SKU-000091,Dimensional,Standard Dimensional criteria for Proportional Valve Mk3,19.0,True
+PLAN-000180,SKU-000091,Destructive Test,Standard Destructive Test criteria for Proportional Valve Mk3,86.1,True
+PLAN-000181,SKU-000091,Visual,Standard Visual criteria for Proportional Valve Mk3,26.1,True
+PLAN-000182,SKU-000092,Visual,Standard Visual criteria for Signal Processor Mk3,23.5,True
+PLAN-000183,SKU-000092,In-Process,Standard In-Process criteria for Signal Processor Mk3,73.0,True
+PLAN-000184,SKU-000092,Incoming Material,Standard Incoming Material criteria for Signal Processor Mk3,92.9,True
+PLAN-000185,SKU-000093,Functional,Standard Functional criteria for Guard Panel Mk3,53.7,True
+PLAN-000186,SKU-000094,In-Process,Standard In-Process criteria for Accumulator Assembly Mk3,51.6,True
+PLAN-000187,SKU-000094,Dimensional,Standard Dimensional criteria for Accumulator Assembly Mk3,19.2,True
+PLAN-000188,SKU-000094,Functional,Standard Functional criteria for Accumulator Assembly Mk3,54.6,True
+PLAN-000189,SKU-000095,Destructive Test,Standard Destructive Test criteria for Hydraulic Power Pack Mk3,54.7,True
+PLAN-000190,SKU-000095,Functional,Standard Functional criteria for Hydraulic Power Pack Mk3,55.8,True
+PLAN-000191,SKU-000095,Final,Standard Final criteria for Hydraulic Power Pack Mk3,79.6,True
+PLAN-000192,SKU-000096,Dimensional,Standard Dimensional criteria for Motor Driver PCB Mk3,32.7,True
+PLAN-000193,SKU-000097,Destructive Test,Standard Destructive Test criteria for I/O Interface Board Mk3,9.8,True
+PLAN-000194,SKU-000098,Final,Standard Final criteria for Power Supply Unit Mk3,73.6,True
+PLAN-000195,SKU-000099,Destructive Test,Standard Destructive Test criteria for Mounting Bracket Mk3,68.7,True
+PLAN-000196,SKU-000099,Visual,Standard Visual criteria for Mounting Bracket Mk3,99.3,True
+PLAN-000197,SKU-000100,Functional,Standard Functional criteria for AC Induction Motor Mk3,37.6,True
+PLAN-000198,SKU-000100,Destructive Test,Standard Destructive Test criteria for AC Induction Motor Mk3,68.1,True
+PLAN-000199,SKU-000101,Final,Standard Final criteria for Main Control Board Mk3,37.1,True
+PLAN-000200,SKU-000101,In-Process,Standard In-Process criteria for Main Control Board Mk3,94.8,True
+PLAN-000201,SKU-000102,Visual,Standard Visual criteria for Air-Cooled Heat Sink Mk3,61.0,True
+PLAN-000202,SKU-000102,Destructive Test,Standard Destructive Test criteria for Air-Cooled Heat Sink Mk3,47.8,True
+PLAN-000203,SKU-000102,In-Process,Standard In-Process criteria for Air-Cooled Heat Sink Mk3,29.1,True
+PLAN-000204,SKU-000103,Functional,Standard Functional criteria for Connector Housing Mk3,70.7,True
+PLAN-000205,SKU-000103,Dimensional,Standard Dimensional criteria for Connector Housing Mk3,33.3,True
+PLAN-000206,SKU-000103,Incoming Material,Standard Incoming Material criteria for Connector Housing Mk3,53.7,True
+PLAN-000207,SKU-000104,Dimensional,Standard Dimensional criteria for LED Driver Board Mk3,64.1,True
+PLAN-000208,SKU-000105,Destructive Test,Standard Destructive Test criteria for Oil Cooler Unit Mk3,5.9,True
+PLAN-000209,SKU-000105,Dimensional,Standard Dimensional criteria for Oil Cooler Unit Mk3,15.1,True
+PLAN-000210,SKU-000105,Functional,Standard Functional criteria for Oil Cooler Unit Mk3,31.6,True
+PLAN-000211,SKU-000106,In-Process,Standard In-Process criteria for Plate Heat Exchanger Mk3,24.9,True
+PLAN-000212,SKU-000106,Destructive Test,Standard Destructive Test criteria for Plate Heat Exchanger Mk3,33.0,True
+PLAN-000213,SKU-000107,Visual,Standard Visual criteria for Pressure Relief Valve Mk3,76.3,True
+PLAN-000214,SKU-000107,Incoming Material,Standard Incoming Material criteria for Pressure Relief Valve Mk3,37.7,True
+PLAN-000215,SKU-000107,Final,Standard Final criteria for Pressure Relief Valve Mk3,60.7,True
+PLAN-000216,SKU-000108,Destructive Test,Standard Destructive Test criteria for Bevel Gear Drive Mk3,33.8,True
+PLAN-000217,SKU-000109,Destructive Test,Standard Destructive Test criteria for Proximity Sensor Unit Mk3,54.5,True
+PLAN-000218,SKU-000110,In-Process,Standard In-Process criteria for Solenoid Valve 5/2 Mk3,68.6,True
+PLAN-000219,SKU-000111,Functional,Standard Functional criteria for Sensor Cable Assembly Mk3,30.5,True
+PLAN-000220,SKU-000112,Destructive Test,Standard Destructive Test criteria for Communication Interface Mk3,66.6,True
+PLAN-000221,SKU-000113,Functional,Standard Functional criteria for Display Module Mk3,45.6,True
+PLAN-000222,SKU-000113,Dimensional,Standard Dimensional criteria for Display Module Mk3,33.1,True
+PLAN-000223,SKU-000114,Visual,Standard Visual criteria for Power Distribution Panel Mk3,14.8,True
+PLAN-000224,SKU-000114,Incoming Material,Standard Incoming Material criteria for Power Distribution Panel Mk3,6.6,True
+PLAN-000225,SKU-000114,In-Process,Standard In-Process criteria for Power Distribution Panel Mk3,94.0,True
+PLAN-000226,SKU-000115,Visual,Standard Visual criteria for Main Control Panel Mk3,65.4,True
+PLAN-000227,SKU-000115,Destructive Test,Standard Destructive Test criteria for Main Control Panel Mk3,50.4,True
+PLAN-000228,SKU-000115,In-Process,Standard In-Process criteria for Main Control Panel Mk3,62.0,True
+PLAN-000229,SKU-000116,Functional,Standard Functional criteria for Enclosure Shell Mk3,45.1,True
+PLAN-000230,SKU-000116,Destructive Test,Standard Destructive Test criteria for Enclosure Shell Mk3,69.0,True
+PLAN-000231,SKU-000117,Destructive Test,Standard Destructive Test criteria for Manifold Block Mk3,98.6,True
+PLAN-000232,SKU-000117,Dimensional,Standard Dimensional criteria for Manifold Block Mk3,55.1,True
+PLAN-000233,SKU-000118,Visual,Standard Visual criteria for Flow Control Valve Mk3,51.5,True
+PLAN-000234,SKU-000118,Functional,Standard Functional criteria for Flow Control Valve Mk3,48.2,True
+PLAN-000235,SKU-000119,Visual,Standard Visual criteria for Operator Interface Panel Mk3,64.8,True
+PLAN-000236,SKU-000119,In-Process,Standard In-Process criteria for Operator Interface Panel Mk3,90.5,True
+PLAN-000237,SKU-000120,Final,Standard Final criteria for Fan Shroud Mk3,50.7,True
+PLAN-000238,SKU-000121,Incoming Material,Standard Incoming Material criteria for Main Wiring Harness Mk3,85.1,True
+PLAN-000239,SKU-000122,Final,Standard Final criteria for Chassis Frame Mk3,26.1,True
+PLAN-000240,SKU-000123,Functional,Standard Functional criteria for Centrifugal Pump Mk3,10.5,True
+PLAN-000241,SKU-000124,Visual,Standard Visual criteria for Reinforcement Rib Mk3,57.0,True
+PLAN-000242,SKU-000124,Incoming Material,Standard Incoming Material criteria for Reinforcement Rib Mk3,32.4,True
+PLAN-000243,SKU-000124,Dimensional,Standard Dimensional criteria for Reinforcement Rib Mk3,94.8,True
+PLAN-000244,SKU-000125,Visual,Standard Visual criteria for Cable Gland Body Mk3,10.9,True
+PLAN-000245,SKU-000125,Destructive Test,Standard Destructive Test criteria for Cable Gland Body Mk3,32.3,True
+PLAN-000246,SKU-000126,Incoming Material,Standard Incoming Material criteria for Gear Pump Assembly Mk3,11.7,True
+PLAN-000247,SKU-000126,In-Process,Standard In-Process criteria for Gear Pump Assembly Mk3,60.3,True
+PLAN-000248,SKU-000126,Visual,Standard Visual criteria for Gear Pump Assembly Mk3,80.1,True
+PLAN-000249,SKU-000127,Dimensional,Standard Dimensional criteria for Sensor Array Board Mk3,53.9,True
+PLAN-000250,SKU-000127,Destructive Test,Standard Destructive Test criteria for Sensor Array Board Mk3,27.7,True
+PLAN-000251,SKU-000128,Dimensional,Standard Dimensional criteria for Button Cap Set Mk3,6.9,True
+PLAN-000252,SKU-000129,Visual,Standard Visual criteria for Brushless DC Motor Mk3,6.3,True
+PLAN-000253,SKU-000129,In-Process,Standard In-Process criteria for Brushless DC Motor Mk3,45.6,True
+PLAN-000254,SKU-000129,Incoming Material,Standard Incoming Material criteria for Brushless DC Motor Mk3,20.1,True
+PLAN-000255,SKU-000130,Dimensional,Standard Dimensional criteria for Cycloidal Reducer Mk3,29.6,True
+PLAN-000256,SKU-000130,Destructive Test,Standard Destructive Test criteria for Cycloidal Reducer Mk3,86.7,True
+PLAN-000257,SKU-000131,Visual,Standard Visual criteria for Sensor Fusion Board Mk3,30.0,True
+PLAN-000258,SKU-000132,Dimensional,Standard Dimensional criteria for Pressure Transducer Mk3,37.9,True
+PLAN-000259,SKU-000132,Final,Standard Final criteria for Pressure Transducer Mk3,98.7,True
+PLAN-000260,SKU-000132,Destructive Test,Standard Destructive Test criteria for Pressure Transducer Mk3,40.4,True
+PLAN-000261,SKU-000133,In-Process,Standard In-Process criteria for Peristaltic Pump Mk3,91.0,True
+PLAN-000262,SKU-000134,Functional,Standard Functional criteria for Power Regulator PCB Mk3,28.6,True
+PLAN-000263,SKU-000135,Final,Standard Final criteria for Tapered Roller Bearing Mk3,25.6,True
+PLAN-000264,SKU-000135,Visual,Standard Visual criteria for Tapered Roller Bearing Mk3,12.3,True
+PLAN-000265,SKU-000135,Functional,Standard Functional criteria for Tapered Roller Bearing Mk3,46.5,True
+PLAN-000266,SKU-000136,Visual,Standard Visual criteria for Vibration Sensor Pack Mk3,52.7,True
+PLAN-000267,SKU-000136,Final,Standard Final criteria for Vibration Sensor Pack Mk3,70.7,True
+PLAN-000268,SKU-000137,Destructive Test,Standard Destructive Test criteria for Servo Motor Assembly Mk3,98.0,True
+PLAN-000269,SKU-000137,Dimensional,Standard Dimensional criteria for Servo Motor Assembly Mk3,90.3,True
+PLAN-000270,SKU-000138,Dimensional,Standard Dimensional criteria for Deep Groove Ball Bearing Mk3,22.9,True
+PLAN-000271,SKU-000138,Visual,Standard Visual criteria for Deep Groove Ball Bearing Mk3,29.0,True
+PLAN-000272,SKU-000139,Destructive Test,Standard Destructive Test criteria for Coupling Flange Mk3,77.1,True
+PLAN-000273,SKU-000139,Incoming Material,Standard Incoming Material criteria for Coupling Flange Mk3,38.4,True
+PLAN-000274,SKU-000139,Dimensional,Standard Dimensional criteria for Coupling Flange Mk3,36.8,True
+PLAN-000275,SKU-000140,Final,Standard Final criteria for Housing Cover Mk3,84.5,True
+PLAN-000276,SKU-000141,Visual,Standard Visual criteria for Needle Bearing Unit Mk3,9.1,True
+PLAN-000277,SKU-000141,In-Process,Standard In-Process criteria for Needle Bearing Unit Mk3,32.5,True
+PLAN-000278,SKU-000141,Final,Standard Final criteria for Needle Bearing Unit Mk3,49.3,True
+PLAN-000279,SKU-000142,Visual,Standard Visual criteria for Structural Beam Mk3,62.4,True
+PLAN-000280,SKU-000142,Destructive Test,Standard Destructive Test criteria for Structural Beam Mk3,15.6,True
+PLAN-000281,SKU-000142,Dimensional,Standard Dimensional criteria for Structural Beam Mk3,58.6,True
+PLAN-000282,SKU-000143,Final,Standard Final criteria for Thrust Bearing Assembly Mk3,98.5,True
+PLAN-000283,SKU-000143,Destructive Test,Standard Destructive Test criteria for Thrust Bearing Assembly Mk3,41.4,True
+PLAN-000284,SKU-000144,In-Process,Standard In-Process criteria for Diaphragm Pump Mk3,55.4,True
+PLAN-000285,SKU-000144,Visual,Standard Visual criteria for Diaphragm Pump Mk3,12.5,True
+PLAN-000286,SKU-000145,In-Process,Standard In-Process criteria for Control Signal Harness Mk3,25.8,True
+PLAN-000287,SKU-000146,Visual,Standard Visual criteria for Shielded Data Cable Mk3,65.8,True
+PLAN-000288,SKU-000147,In-Process,Standard In-Process criteria for Power Distribution Harness Mk3,75.3,True
+PLAN-000289,SKU-000147,Final,Standard Final criteria for Power Distribution Harness Mk3,56.4,True
+PLAN-000290,SKU-000148,In-Process,Standard In-Process criteria for Check Valve Assembly Mk3,14.1,True
+PLAN-000291,SKU-000148,Dimensional,Standard Dimensional criteria for Check Valve Assembly Mk3,57.2,True
+PLAN-000292,SKU-000149,Visual,Standard Visual criteria for Helical Gear Unit Mk3,46.1,True
+PLAN-000293,SKU-000149,Destructive Test,Standard Destructive Test criteria for Helical Gear Unit Mk3,16.0,True
+PLAN-000294,SKU-000150,Functional,Standard Functional criteria for Battery Harness Mk3,96.3,True
+PLAN-000295,SKU-000150,Destructive Test,Standard Destructive Test criteria for Battery Harness Mk3,93.4,True
+PLAN-000296,SKU-000150,Incoming Material,Standard Incoming Material criteria for Battery Harness Mk3,87.2,True
+PLAN-000297,SKU-000151,Functional,Standard Functional criteria for Linear Actuator Mk3,21.9,True
+PLAN-000298,SKU-000151,Dimensional,Standard Dimensional criteria for Linear Actuator Mk3,7.6,True
+PLAN-000299,SKU-000152,Functional,Standard Functional criteria for Motor Control Center Mk3,26.9,True
+PLAN-000300,SKU-000152,Visual,Standard Visual criteria for Motor Control Center Mk3,79.5,True
+PLAN-000301,SKU-000153,Final,Standard Final criteria for Directional Control Valve Mk3,14.4,True
+PLAN-000302,SKU-000153,Functional,Standard Functional criteria for Directional Control Valve Mk3,13.7,True
+PLAN-000303,SKU-000153,Visual,Standard Visual criteria for Directional Control Valve Mk3,34.2,True
+PLAN-000304,SKU-000154,Final,Standard Final criteria for Shell-and-Tube Exchanger Mk3,45.6,True
+PLAN-000305,SKU-000154,Dimensional,Standard Dimensional criteria for Shell-and-Tube Exchanger Mk3,78.3,True
+PLAN-000306,SKU-000155,Dimensional,Standard Dimensional criteria for Support Frame Mk3,26.9,True
+PLAN-000307,SKU-000156,In-Process,Standard In-Process criteria for Directional Spool Valve Mk3,84.6,True
+PLAN-000308,SKU-000156,Dimensional,Standard Dimensional criteria for Directional Spool Valve Mk3,41.6,True
+PLAN-000309,SKU-000157,Final,Standard Final criteria for Gear Motor Pack Mk3,78.3,True
+PLAN-000310,SKU-000157,In-Process,Standard In-Process criteria for Gear Motor Pack Mk3,98.1,True
+PLAN-000311,SKU-000157,Functional,Standard Functional criteria for Gear Motor Pack Mk3,91.3,True
+PLAN-000312,SKU-000158,Final,Standard Final criteria for Planetary Gear Box Mk3,40.0,True
+PLAN-000313,SKU-000159,Final,Standard Final criteria for Condenser Assembly Mk3,37.0,True
+PLAN-000314,SKU-000159,Incoming Material,Standard Incoming Material criteria for Condenser Assembly Mk3,61.0,True
+PLAN-000315,SKU-000159,In-Process,Standard In-Process criteria for Condenser Assembly Mk3,62.9,True
+PLAN-000316,SKU-000160,Destructive Test,Standard Destructive Test criteria for Flow Meter Assembly Mk3,16.9,True
+PLAN-000317,SKU-000160,Incoming Material,Standard Incoming Material criteria for Flow Meter Assembly Mk3,18.9,True
+PLAN-000318,SKU-000161,Visual,Standard Visual criteria for Pivot Arm Mk3,24.5,True
+PLAN-000319,SKU-000162,Functional,Standard Functional criteria for Load Cell Module Mk3,91.5,True
+PLAN-000320,SKU-000162,In-Process,Standard In-Process criteria for Load Cell Module Mk3,97.9,True
+PLAN-000321,SKU-000162,Destructive Test,Standard Destructive Test criteria for Load Cell Module Mk3,33.2,True
+PLAN-000322,SKU-000163,In-Process,Standard In-Process criteria for Relay Control PCB Mk3,52.5,True
+PLAN-000323,SKU-000163,Visual,Standard Visual criteria for Relay Control PCB Mk3,74.7,True
+PLAN-000324,SKU-000163,Destructive Test,Standard Destructive Test criteria for Relay Control PCB Mk3,38.6,True
+PLAN-000325,SKU-000164,Final,Standard Final criteria for Stepper Motor Unit Mk3,81.4,True
+PLAN-000326,SKU-000165,In-Process,Standard In-Process criteria for Hydraulic Cylinder Mk3,76.1,True
+PLAN-000327,SKU-000165,Final,Standard Final criteria for Hydraulic Cylinder Mk3,57.6,True
+PLAN-000328,SKU-000166,Dimensional,Standard Dimensional criteria for Worm Gear Reducer Mk3,26.5,True
+PLAN-000329,SKU-000166,In-Process,Standard In-Process criteria for Worm Gear Reducer Mk3,16.7,True
+PLAN-000330,SKU-000166,Final,Standard Final criteria for Worm Gear Reducer Mk3,54.0,True
+PLAN-000331,SKU-000167,Functional,Standard Functional criteria for Vacuum Pump Module Mk3,33.9,True
+PLAN-000332,SKU-000168,Functional,Standard Functional criteria for Fin-Type Radiator Mk3,12.8,True
+PLAN-000333,SKU-000168,Visual,Standard Visual criteria for Fin-Type Radiator Mk3,23.1,True
+PLAN-000334,SKU-000169,Incoming Material,Standard Incoming Material criteria for Spherical Roller Bearing Mk3,80.3,True
+PLAN-000335,SKU-000169,Dimensional,Standard Dimensional criteria for Spherical Roller Bearing Mk3,80.3,True
+PLAN-000336,SKU-000169,Final,Standard Final criteria for Spherical Roller Bearing Mk3,96.5,True
+PLAN-000337,SKU-000170,Final,Standard Final criteria for Hydraulic Motor Mk3,82.8,True
+PLAN-000338,SKU-000171,Functional,Standard Functional criteria for Safety Relay Panel Mk3,10.4,True
+PLAN-000339,SKU-000171,Destructive Test,Standard Destructive Test criteria for Safety Relay Panel Mk3,32.1,True
+PLAN-000340,SKU-000171,Incoming Material,Standard Incoming Material criteria for Safety Relay Panel Mk3,86.5,True
+PLAN-000341,SKU-000172,Destructive Test,Standard Destructive Test criteria for Mounting Plate Mk3,94.2,True
+PLAN-000342,SKU-000172,Functional,Standard Functional criteria for Mounting Plate Mk3,66.7,True
+PLAN-000343,SKU-000172,Final,Standard Final criteria for Mounting Plate Mk3,30.4,True
+PLAN-000344,SKU-000173,Incoming Material,Standard Incoming Material criteria for Remote I/O Panel Mk3,24.0,True
+PLAN-000345,SKU-000173,Destructive Test,Standard Destructive Test criteria for Remote I/O Panel Mk3,26.8,True
+PLAN-000346,SKU-000173,In-Process,Standard In-Process criteria for Remote I/O Panel Mk3,10.5,True
+PLAN-000347,SKU-000174,Destructive Test,Standard Destructive Test criteria for Piston Pump Unit Mk3,45.4,True
+PLAN-000348,SKU-000174,In-Process,Standard In-Process criteria for Piston Pump Unit Mk3,60.0,True
+PLAN-000349,SKU-000174,Visual,Standard Visual criteria for Piston Pump Unit Mk3,48.4,True
+PLAN-000350,SKU-000175,Dimensional,Standard Dimensional criteria for Hinge Assembly Mk3,32.7,True
+PLAN-000351,SKU-000175,Incoming Material,Standard Incoming Material criteria for Hinge Assembly Mk3,31.5,True
+PLAN-000352,SKU-000175,Visual,Standard Visual criteria for Hinge Assembly Mk3,47.1,True
+PLAN-000353,SKU-000176,Final,Standard Final criteria for Spur Gear Train Mk3,70.5,True
+PLAN-000354,SKU-000176,Incoming Material,Standard Incoming Material criteria for Spur Gear Train Mk3,64.9,True
+PLAN-000355,SKU-000176,Dimensional,Standard Dimensional criteria for Spur Gear Train Mk3,51.0,True
+PLAN-000356,SKU-000177,Final,Standard Final criteria for Light Pipe Array Mk3,52.3,True
+PLAN-000357,SKU-000177,Functional,Standard Functional criteria for Light Pipe Array Mk3,75.7,True
+PLAN-000358,SKU-000177,In-Process,Standard In-Process criteria for Light Pipe Array Mk3,56.5,True
+PLAN-000359,SKU-000178,Destructive Test,Standard Destructive Test criteria for Temperature Sensor Module Mk3,7.7,True
+PLAN-000360,SKU-000178,Functional,Standard Functional criteria for Temperature Sensor Module Mk3,58.7,True
+PLAN-000361,SKU-000178,In-Process,Standard In-Process criteria for Temperature Sensor Module Mk3,73.3,True
+PLAN-000362,SKU-000179,In-Process,Standard In-Process criteria for Linear Bearing Block Mk3,19.3,True
+PLAN-000363,SKU-000179,Visual,Standard Visual criteria for Linear Bearing Block Mk3,76.8,True
+PLAN-000364,SKU-000179,Final,Standard Final criteria for Linear Bearing Block Mk3,34.2,True
+PLAN-000365,SKU-000180,Destructive Test,Standard Destructive Test criteria for Drive Shaft Mk3,11.3,True
+PLAN-000366,SKU-000180,Final,Standard Final criteria for Drive Shaft Mk3,83.3,True
+PLAN-000367,SKU-000181,Dimensional,Standard Dimensional criteria for Proportional Valve Mk4,8.2,True
+PLAN-000368,SKU-000181,Functional,Standard Functional criteria for Proportional Valve Mk4,34.4,True
+PLAN-000369,SKU-000181,Visual,Standard Visual criteria for Proportional Valve Mk4,32.0,True
+PLAN-000370,SKU-000182,Dimensional,Standard Dimensional criteria for Signal Processor Mk4,96.5,True
+PLAN-000371,SKU-000183,Dimensional,Standard Dimensional criteria for Guard Panel Mk4,14.3,True
+PLAN-000372,SKU-000183,Functional,Standard Functional criteria for Guard Panel Mk4,5.1,True
+PLAN-000373,SKU-000183,Final,Standard Final criteria for Guard Panel Mk4,37.2,True
+PLAN-000374,SKU-000184,Incoming Material,Standard Incoming Material criteria for Accumulator Assembly Mk4,54.6,True
+PLAN-000375,SKU-000185,Incoming Material,Standard Incoming Material criteria for Hydraulic Power Pack Mk4,99.5,True
+PLAN-000376,SKU-000185,Destructive Test,Standard Destructive Test criteria for Hydraulic Power Pack Mk4,66.8,True
+PLAN-000377,SKU-000185,Dimensional,Standard Dimensional criteria for Hydraulic Power Pack Mk4,19.8,True
+PLAN-000378,SKU-000186,Incoming Material,Standard Incoming Material criteria for Motor Driver PCB Mk4,74.1,True
+PLAN-000379,SKU-000187,Final,Standard Final criteria for I/O Interface Board Mk4,49.5,True
+PLAN-000380,SKU-000187,Functional,Standard Functional criteria for I/O Interface Board Mk4,43.9,True
+PLAN-000381,SKU-000187,Incoming Material,Standard Incoming Material criteria for I/O Interface Board Mk4,98.0,True
+PLAN-000382,SKU-000188,Final,Standard Final criteria for Power Supply Unit Mk4,64.5,True
+PLAN-000383,SKU-000188,Incoming Material,Standard Incoming Material criteria for Power Supply Unit Mk4,63.9,True
+PLAN-000384,SKU-000189,Dimensional,Standard Dimensional criteria for Mounting Bracket Mk4,14.5,True
+PLAN-000385,SKU-000190,Final,Standard Final criteria for AC Induction Motor Mk4,94.1,True
+PLAN-000386,SKU-000190,Incoming Material,Standard Incoming Material criteria for AC Induction Motor Mk4,36.9,True
+PLAN-000387,SKU-000190,In-Process,Standard In-Process criteria for AC Induction Motor Mk4,20.5,True
+PLAN-000388,SKU-000191,Final,Standard Final criteria for Main Control Board Mk4,29.8,True
+PLAN-000389,SKU-000191,Dimensional,Standard Dimensional criteria for Main Control Board Mk4,59.4,True
+PLAN-000390,SKU-000191,Functional,Standard Functional criteria for Main Control Board Mk4,96.3,True
+PLAN-000391,SKU-000192,In-Process,Standard In-Process criteria for Air-Cooled Heat Sink Mk4,17.6,True
+PLAN-000392,SKU-000192,Visual,Standard Visual criteria for Air-Cooled Heat Sink Mk4,78.7,True
+PLAN-000393,SKU-000192,Functional,Standard Functional criteria for Air-Cooled Heat Sink Mk4,64.8,True
+PLAN-000394,SKU-000193,Destructive Test,Standard Destructive Test criteria for Connector Housing Mk4,70.8,True
+PLAN-000395,SKU-000193,In-Process,Standard In-Process criteria for Connector Housing Mk4,23.5,True
+PLAN-000396,SKU-000193,Functional,Standard Functional criteria for Connector Housing Mk4,66.0,True
+PLAN-000397,SKU-000194,Final,Standard Final criteria for LED Driver Board Mk4,58.0,True
+PLAN-000398,SKU-000195,Dimensional,Standard Dimensional criteria for Oil Cooler Unit Mk4,14.1,True
+PLAN-000399,SKU-000195,Destructive Test,Standard Destructive Test criteria for Oil Cooler Unit Mk4,97.9,True
+PLAN-000400,SKU-000196,Dimensional,Standard Dimensional criteria for Plate Heat Exchanger Mk4,65.8,True
+PLAN-000401,SKU-000196,Final,Standard Final criteria for Plate Heat Exchanger Mk4,39.1,True
+PLAN-000402,SKU-000197,In-Process,Standard In-Process criteria for Pressure Relief Valve Mk4,46.0,True
+PLAN-000403,SKU-000198,Dimensional,Standard Dimensional criteria for Bevel Gear Drive Mk4,51.2,True
+PLAN-000404,SKU-000198,Destructive Test,Standard Destructive Test criteria for Bevel Gear Drive Mk4,26.4,True
+PLAN-000405,SKU-000198,Functional,Standard Functional criteria for Bevel Gear Drive Mk4,60.9,True
+PLAN-000406,SKU-000199,Destructive Test,Standard Destructive Test criteria for Proximity Sensor Unit Mk4,99.3,True
+PLAN-000407,SKU-000200,In-Process,Standard In-Process criteria for Solenoid Valve 5/2 Mk4,89.4,True
+PLAN-000408,SKU-000200,Visual,Standard Visual criteria for Solenoid Valve 5/2 Mk4,18.4,True

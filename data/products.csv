@@ -1,0 +1,201 @@
+sku_id,product_name,category,unit_cost,weight_kg,lead_time_days,active
+SKU-000001,Proportional Valve,Pneumatic Valve,3055.3,461.41,21,True
+SKU-000002,Signal Processor,Electronics Assembly,87.25,486.93,2,True
+SKU-000003,Guard Panel,Metal Fabrication,2762.61,296.56,54,True
+SKU-000004,Accumulator Assembly,Hydraulic System,3395.58,174.78,84,True
+SKU-000005,Hydraulic Power Pack,Hydraulic System,3194.56,181.42,17,True
+SKU-000006,Motor Driver PCB,PCB Assembly,2767.7,232.8,66,True
+SKU-000007,I/O Interface Board,PCB Assembly,2314.9,258.37,67,True
+SKU-000008,Power Supply Unit,Electronics Assembly,675.7,136.05,31,True
+SKU-000009,Mounting Bracket,Mechanical Component,3926.97,468.57,8,True
+SKU-000010,AC Induction Motor,Motor Assembly,2303.52,176.69,86,True
+SKU-000011,Main Control Board,Electronics Assembly,230.76,157.54,16,True
+SKU-000012,Air-Cooled Heat Sink,Heat Exchanger,3573.24,208.0,31,True
+SKU-000013,Connector Housing,Plastic Molding,3165.73,365.32,20,True
+SKU-000014,LED Driver Board,PCB Assembly,3645.73,426.21,36,True
+SKU-000015,Oil Cooler Unit,Heat Exchanger,900.57,302.6,23,True
+SKU-000016,Plate Heat Exchanger,Heat Exchanger,2874.72,384.8,90,True
+SKU-000017,Pressure Relief Valve,Pneumatic Valve,4150.43,21.72,81,True
+SKU-000018,Bevel Gear Drive,Gear Box,4606.47,271.12,15,True
+SKU-000019,Proximity Sensor Unit,Sensor Module,3244.06,16.3,84,True
+SKU-000020,Solenoid Valve 5/2,Pneumatic Valve,465.88,211.8,36,True
+SKU-000021,Sensor Cable Assembly,Electrical Harness,3789.45,407.94,4,True
+SKU-000022,Communication Interface,Electronics Assembly,291.2,205.14,38,True
+SKU-000023,Display Module,Electronics Assembly,2334.51,305.22,16,True
+SKU-000024,Power Distribution Panel,Control Panel,2859.57,259.19,56,True
+SKU-000025,Main Control Panel,Control Panel,2204.24,175.95,27,True
+SKU-000026,Enclosure Shell,Plastic Molding,4931.2,347.69,38,True
+SKU-000027,Manifold Block,Hydraulic System,3471.24,96.63,46,True
+SKU-000028,Flow Control Valve,Pneumatic Valve,339.92,307.1,45,True
+SKU-000029,Operator Interface Panel,Control Panel,3005.55,414.25,76,True
+SKU-000030,Fan Shroud,Plastic Molding,2494.26,13.15,9,True
+SKU-000031,Main Wiring Harness,Electrical Harness,4551.8,329.75,3,True
+SKU-000032,Chassis Frame,Metal Fabrication,4534.3,11.7,24,True
+SKU-000033,Centrifugal Pump,Pump Unit,2282.73,3.02,2,True
+SKU-000034,Reinforcement Rib,Metal Fabrication,2759.58,40.92,44,True
+SKU-000035,Cable Gland Body,Plastic Molding,1087.56,86.93,77,True
+SKU-000036,Gear Pump Assembly,Pump Unit,4784.79,100.0,24,True
+SKU-000037,Sensor Array Board,Electronics Assembly,3820.24,427.67,14,True
+SKU-000038,Button Cap Set,Plastic Molding,3046.98,200.96,60,True
+SKU-000039,Brushless DC Motor,Motor Assembly,1587.69,456.51,87,True
+SKU-000040,Cycloidal Reducer,Gear Box,20.18,414.51,67,True
+SKU-000041,Sensor Fusion Board,PCB Assembly,4172.89,51.81,74,True
+SKU-000042,Pressure Transducer,Sensor Module,2416.22,260.87,75,True
+SKU-000043,Peristaltic Pump,Pump Unit,4528.9,106.63,59,True
+SKU-000044,Power Regulator PCB,PCB Assembly,3409.06,334.4,63,True
+SKU-000045,Tapered Roller Bearing,Bearing Assembly,3564.28,341.27,71,True
+SKU-000046,Vibration Sensor Pack,Sensor Module,2709.63,472.14,51,True
+SKU-000047,Servo Motor Assembly,Motor Assembly,2971.2,435.68,58,True
+SKU-000048,Deep Groove Ball Bearing,Bearing Assembly,3311.55,225.68,59,True
+SKU-000049,Coupling Flange,Mechanical Component,3456.93,166.4,55,True
+SKU-000050,Housing Cover,Mechanical Component,3268.35,127.54,54,True
+SKU-000051,Needle Bearing Unit,Bearing Assembly,3309.99,4.16,60,True
+SKU-000052,Structural Beam,Metal Fabrication,4641.39,98.78,88,True
+SKU-000053,Thrust Bearing Assembly,Bearing Assembly,2626.83,344.9,34,True
+SKU-000054,Diaphragm Pump,Pump Unit,2778.61,229.99,37,True
+SKU-000055,Control Signal Harness,Electrical Harness,4349.48,362.8,77,True
+SKU-000056,Shielded Data Cable,Electrical Harness,3569.02,446.51,54,True
+SKU-000057,Power Distribution Harness,Electrical Harness,728.64,4.92,86,True
+SKU-000058,Check Valve Assembly,Pneumatic Valve,442.64,470.23,17,True
+SKU-000059,Helical Gear Unit,Gear Box,2589.59,241.31,1,True
+SKU-000060,Battery Harness,Electrical Harness,2228.95,25.38,35,True
+SKU-000061,Linear Actuator,Motor Assembly,1890.22,143.24,18,True
+SKU-000062,Motor Control Center,Control Panel,3984.85,414.08,27,True
+SKU-000063,Directional Control Valve,Hydraulic System,2681.32,67.25,18,True
+SKU-000064,Shell-and-Tube Exchanger,Heat Exchanger,755.6,134.63,1,True
+SKU-000065,Support Frame,Mechanical Component,3721.38,231.88,58,True
+SKU-000066,Directional Spool Valve,Pneumatic Valve,3400.01,210.01,62,True
+SKU-000067,Gear Motor Pack,Motor Assembly,48.1,489.72,61,True
+SKU-000068,Planetary Gear Box,Gear Box,4538.41,229.12,5,True
+SKU-000069,Condenser Assembly,Heat Exchanger,4959.99,383.78,60,True
+SKU-000070,Flow Meter Assembly,Sensor Module,3902.43,59.94,86,True
+SKU-000071,Pivot Arm,Mechanical Component,1461.51,117.88,26,True
+SKU-000072,Load Cell Module,Sensor Module,2245.5,257.21,30,True
+SKU-000073,Relay Control PCB,PCB Assembly,538.17,391.14,89,True
+SKU-000074,Stepper Motor Unit,Motor Assembly,291.66,193.71,90,True
+SKU-000075,Hydraulic Cylinder,Hydraulic System,3248.52,420.93,30,True
+SKU-000076,Worm Gear Reducer,Gear Box,4876.89,287.04,40,True
+SKU-000077,Vacuum Pump Module,Pump Unit,1056.97,338.59,83,True
+SKU-000078,Fin-Type Radiator,Heat Exchanger,2172.27,272.45,24,True
+SKU-000079,Spherical Roller Bearing,Bearing Assembly,1500.0,222.99,53,True
+SKU-000080,Hydraulic Motor,Hydraulic System,4510.46,445.69,10,True
+SKU-000081,Safety Relay Panel,Control Panel,3453.1,354.8,65,True
+SKU-000082,Mounting Plate,Metal Fabrication,1802.44,459.64,22,True
+SKU-000083,Remote I/O Panel,Control Panel,4507.78,405.46,69,True
+SKU-000084,Piston Pump Unit,Pump Unit,1954.99,59.11,72,True
+SKU-000085,Hinge Assembly,Metal Fabrication,1060.45,339.61,53,True
+SKU-000086,Spur Gear Train,Gear Box,1772.12,141.35,66,True
+SKU-000087,Light Pipe Array,Plastic Molding,45.19,219.8,80,True
+SKU-000088,Temperature Sensor Module,Sensor Module,4238.97,352.86,59,True
+SKU-000089,Linear Bearing Block,Bearing Assembly,4079.09,172.7,34,True
+SKU-000090,Drive Shaft,Mechanical Component,117.62,290.03,3,True
+SKU-000091,Proportional Valve Mk3,Pneumatic Valve,2785.32,184.17,10,True
+SKU-000092,Signal Processor Mk3,Electronics Assembly,4863.74,262.19,68,True
+SKU-000093,Guard Panel Mk3,Metal Fabrication,2984.29,202.77,71,True
+SKU-000094,Accumulator Assembly Mk3,Hydraulic System,1266.38,253.33,2,True
+SKU-000095,Hydraulic Power Pack Mk3,Hydraulic System,255.35,343.76,30,True
+SKU-000096,Motor Driver PCB Mk3,PCB Assembly,2604.82,67.95,4,True
+SKU-000097,I/O Interface Board Mk3,PCB Assembly,550.33,18.06,18,True
+SKU-000098,Power Supply Unit Mk3,Electronics Assembly,4884.65,141.54,65,True
+SKU-000099,Mounting Bracket Mk3,Mechanical Component,1476.62,343.38,23,True
+SKU-000100,AC Induction Motor Mk3,Motor Assembly,2190.08,20.16,8,True
+SKU-000101,Main Control Board Mk3,Electronics Assembly,340.94,45.28,7,True
+SKU-000102,Air-Cooled Heat Sink Mk3,Heat Exchanger,456.49,421.47,39,True
+SKU-000103,Connector Housing Mk3,Plastic Molding,4697.28,145.28,62,True
+SKU-000104,LED Driver Board Mk3,PCB Assembly,1589.96,24.22,49,True
+SKU-000105,Oil Cooler Unit Mk3,Heat Exchanger,3606.28,233.8,54,True
+SKU-000106,Plate Heat Exchanger Mk3,Heat Exchanger,3892.81,145.94,30,True
+SKU-000107,Pressure Relief Valve Mk3,Pneumatic Valve,276.02,197.1,45,True
+SKU-000108,Bevel Gear Drive Mk3,Gear Box,2272.34,5.08,12,True
+SKU-000109,Proximity Sensor Unit Mk3,Sensor Module,3668.26,274.24,80,True
+SKU-000110,Solenoid Valve 5/2 Mk3,Pneumatic Valve,2475.85,87.0,46,True
+SKU-000111,Sensor Cable Assembly Mk3,Electrical Harness,3731.38,270.4,61,True
+SKU-000112,Communication Interface Mk3,Electronics Assembly,1290.45,174.72,5,True
+SKU-000113,Display Module Mk3,Electronics Assembly,1111.11,131.49,58,True
+SKU-000114,Power Distribution Panel Mk3,Control Panel,4297.37,246.18,77,True
+SKU-000115,Main Control Panel Mk3,Control Panel,1831.82,362.48,44,True
+SKU-000116,Enclosure Shell Mk3,Plastic Molding,561.57,279.98,44,True
+SKU-000117,Manifold Block Mk3,Hydraulic System,4162.56,244.64,68,True
+SKU-000118,Flow Control Valve Mk3,Pneumatic Valve,808.07,171.52,53,True
+SKU-000119,Operator Interface Panel Mk3,Control Panel,322.22,416.62,56,True
+SKU-000120,Fan Shroud Mk3,Plastic Molding,3004.37,165.21,78,True
+SKU-000121,Main Wiring Harness Mk3,Electrical Harness,2164.32,371.13,51,True
+SKU-000122,Chassis Frame Mk3,Metal Fabrication,4185.89,251.87,4,True
+SKU-000123,Centrifugal Pump Mk3,Pump Unit,1224.29,416.95,79,True
+SKU-000124,Reinforcement Rib Mk3,Metal Fabrication,4847.0,490.37,85,True
+SKU-000125,Cable Gland Body Mk3,Plastic Molding,2040.22,277.99,90,True
+SKU-000126,Gear Pump Assembly Mk3,Pump Unit,1817.72,492.19,14,True
+SKU-000127,Sensor Array Board Mk3,Electronics Assembly,730.07,145.49,49,True
+SKU-000128,Button Cap Set Mk3,Plastic Molding,3487.43,291.42,46,True
+SKU-000129,Brushless DC Motor Mk3,Motor Assembly,2240.49,329.02,55,True
+SKU-000130,Cycloidal Reducer Mk3,Gear Box,243.78,346.56,55,True
+SKU-000131,Sensor Fusion Board Mk3,PCB Assembly,4726.25,200.7,11,True
+SKU-000132,Pressure Transducer Mk3,Sensor Module,3228.96,466.47,65,True
+SKU-000133,Peristaltic Pump Mk3,Pump Unit,1157.52,373.1,1,True
+SKU-000134,Power Regulator PCB Mk3,PCB Assembly,4265.2,202.02,1,True
+SKU-000135,Tapered Roller Bearing Mk3,Bearing Assembly,1954.59,196.64,53,True
+SKU-000136,Vibration Sensor Pack Mk3,Sensor Module,2793.31,354.85,73,True
+SKU-000137,Servo Motor Assembly Mk3,Motor Assembly,4627.12,272.85,11,True
+SKU-000138,Deep Groove Ball Bearing Mk3,Bearing Assembly,4100.27,42.87,36,True
+SKU-000139,Coupling Flange Mk3,Mechanical Component,688.19,88.5,41,True
+SKU-000140,Housing Cover Mk3,Mechanical Component,3756.46,197.06,29,True
+SKU-000141,Needle Bearing Unit Mk3,Bearing Assembly,3676.8,119.11,75,True
+SKU-000142,Structural Beam Mk3,Metal Fabrication,858.93,308.89,47,True
+SKU-000143,Thrust Bearing Assembly Mk3,Bearing Assembly,318.54,225.43,63,True
+SKU-000144,Diaphragm Pump Mk3,Pump Unit,4477.35,368.3,4,True
+SKU-000145,Control Signal Harness Mk3,Electrical Harness,904.82,309.45,71,True
+SKU-000146,Shielded Data Cable Mk3,Electrical Harness,962.66,58.32,2,True
+SKU-000147,Power Distribution Harness Mk3,Electrical Harness,1407.69,338.72,80,True
+SKU-000148,Check Valve Assembly Mk3,Pneumatic Valve,777.41,278.59,74,True
+SKU-000149,Helical Gear Unit Mk3,Gear Box,2477.19,177.12,63,True
+SKU-000150,Battery Harness Mk3,Electrical Harness,4914.23,277.85,41,True
+SKU-000151,Linear Actuator Mk3,Motor Assembly,4122.63,365.17,18,True
+SKU-000152,Motor Control Center Mk3,Control Panel,3204.62,357.91,5,True
+SKU-000153,Directional Control Valve Mk3,Hydraulic System,4598.62,424.57,88,True
+SKU-000154,Shell-and-Tube Exchanger Mk3,Heat Exchanger,774.02,473.55,80,True
+SKU-000155,Support Frame Mk3,Mechanical Component,2355.58,336.93,32,True
+SKU-000156,Directional Spool Valve Mk3,Pneumatic Valve,4073.06,260.23,70,True
+SKU-000157,Gear Motor Pack Mk3,Motor Assembly,1635.38,12.14,3,True
+SKU-000158,Planetary Gear Box Mk3,Gear Box,1903.51,460.46,46,True
+SKU-000159,Condenser Assembly Mk3,Heat Exchanger,1415.69,17.03,57,True
+SKU-000160,Flow Meter Assembly Mk3,Sensor Module,4520.94,120.07,79,True
+SKU-000161,Pivot Arm Mk3,Mechanical Component,2752.7,333.45,6,True
+SKU-000162,Load Cell Module Mk3,Sensor Module,483.98,159.21,72,True
+SKU-000163,Relay Control PCB Mk3,PCB Assembly,2476.83,494.47,80,True
+SKU-000164,Stepper Motor Unit Mk3,Motor Assembly,1789.84,72.31,65,True
+SKU-000165,Hydraulic Cylinder Mk3,Hydraulic System,4202.98,199.75,85,True
+SKU-000166,Worm Gear Reducer Mk3,Gear Box,4629.11,494.92,4,True
+SKU-000167,Vacuum Pump Module Mk3,Pump Unit,1877.06,16.35,41,True
+SKU-000168,Fin-Type Radiator Mk3,Heat Exchanger,3422.1,13.59,48,True
+SKU-000169,Spherical Roller Bearing Mk3,Bearing Assembly,4900.88,211.31,63,True
+SKU-000170,Hydraulic Motor Mk3,Hydraulic System,1776.11,416.5,33,True
+SKU-000171,Safety Relay Panel Mk3,Control Panel,3455.46,321.64,74,True
+SKU-000172,Mounting Plate Mk3,Metal Fabrication,2742.32,273.44,71,True
+SKU-000173,Remote I/O Panel Mk3,Control Panel,4913.12,142.49,50,True
+SKU-000174,Piston Pump Unit Mk3,Pump Unit,3744.87,140.42,55,True
+SKU-000175,Hinge Assembly Mk3,Metal Fabrication,4404.05,273.86,66,True
+SKU-000176,Spur Gear Train Mk3,Gear Box,2176.35,383.68,24,True
+SKU-000177,Light Pipe Array Mk3,Plastic Molding,4349.83,167.96,82,True
+SKU-000178,Temperature Sensor Module Mk3,Sensor Module,4184.67,95.06,64,True
+SKU-000179,Linear Bearing Block Mk3,Bearing Assembly,3704.61,380.86,26,True
+SKU-000180,Drive Shaft Mk3,Mechanical Component,1520.86,170.73,24,True
+SKU-000181,Proportional Valve Mk4,Pneumatic Valve,399.99,300.95,62,True
+SKU-000182,Signal Processor Mk4,Electronics Assembly,1556.64,90.8,9,True
+SKU-000183,Guard Panel Mk4,Metal Fabrication,4096.47,74.33,59,True
+SKU-000184,Accumulator Assembly Mk4,Hydraulic System,4343.83,239.05,32,True
+SKU-000185,Hydraulic Power Pack Mk4,Hydraulic System,73.87,152.27,64,True
+SKU-000186,Motor Driver PCB Mk4,PCB Assembly,27.23,287.95,7,True
+SKU-000187,I/O Interface Board Mk4,PCB Assembly,1657.49,350.41,71,True
+SKU-000188,Power Supply Unit Mk4,Electronics Assembly,3837.77,87.32,78,True
+SKU-000189,Mounting Bracket Mk4,Mechanical Component,3770.66,122.24,20,True
+SKU-000190,AC Induction Motor Mk4,Motor Assembly,809.68,346.13,74,True
+SKU-000191,Main Control Board Mk4,Electronics Assembly,1131.88,295.23,5,True
+SKU-000192,Air-Cooled Heat Sink Mk4,Heat Exchanger,267.03,447.39,43,True
+SKU-000193,Connector Housing Mk4,Plastic Molding,4487.57,267.22,84,True
+SKU-000194,LED Driver Board Mk4,PCB Assembly,972.95,118.41,34,True
+SKU-000195,Oil Cooler Unit Mk4,Heat Exchanger,4120.32,110.88,7,True
+SKU-000196,Plate Heat Exchanger Mk4,Heat Exchanger,1388.82,315.9,49,True
+SKU-000197,Pressure Relief Valve Mk4,Pneumatic Valve,2686.09,390.83,49,True
+SKU-000198,Bevel Gear Drive Mk4,Gear Box,1552.43,114.7,27,True
+SKU-000199,Proximity Sensor Unit Mk4,Sensor Module,4094.42,451.23,4,True
+SKU-000200,Solenoid Valve 5/2 Mk4,Pneumatic Valve,1710.58,364.43,73,True

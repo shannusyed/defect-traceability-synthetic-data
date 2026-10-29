@@ -1,0 +1,31 @@
+machine_id,machine_name,machine_type,location,status,install_date,last_maintenance_date
+MCH-000001,5-Axis CNC Center,CNC,Building A - Line 1,Operational,2024-03-17,2025-12-18
+MCH-000002,CNC Router,CNC,Building C - Lab,Under Maintenance,2025-06-11,2026-09-17
+MCH-000003,IM Machine 500T,Injection Molding,Building B - Line 1,Operational,2020-07-08,2020-12-27
+MCH-000004,Robotic Assembly Cell,Assembly,Building C - Lab,Decommissioned,2024-01-10,2025-08-07
+MCH-000005,Paint Booth,Surface Treatment,Building B - Line 1,Operational,2020-11-15,2024-09-23
+MCH-000006,CNC Mill,CNC,Building C - Line 1,Operational,2020-09-18,2023-07-27
+MCH-000007,Laser Welder,Welding,Building D - Assembly,Operational,2018-07-20,2024-05-19
+MCH-000008,Hydraulic Press 200T,Press,Building A - Line 2,Operational,2022-02-16,2024-02-27
+MCH-000009,Manual Assembly Station,Assembly,Building A - Line 3,Decommissioned,2024-07-25,2026-09-23
+MCH-000010,TIG Welder,Welding,Building A - Line 1,Operational,2024-07-11,2026-06-03
+MCH-000011,MIG Welder,Welding,Building D - Assembly,Operational,2019-05-18,2020-01-17
+MCH-000012,Plating Line,Surface Treatment,Building C - Line 1,Operational,2019-05-24,2024-01-12
+MCH-000013,Spot Welder,Welding,Building D - Assembly,Operational,2022-01-12,2025-08-03
+MCH-000014,IM Machine 150T,Injection Molding,Building B - Line 1,Under Maintenance,2023-11-24,2026-06-10
+MCH-000015,Mechanical Press 100T,Press,Building C - Lab,Operational,2019-10-14,2021-10-12
+MCH-000016,Powder Coating Line,Surface Treatment,Building A - Line 1,Operational,2021-01-06,2023-03-03
+MCH-000017,Reflow Oven,SMT,Building C - Line 1,Operational,2020-03-28,2021-09-12
+MCH-000018,CNC Lathe,CNC,Building D - Assembly,Operational,2018-06-18,2019-02-05
+MCH-000019,Pick-and-Place Machine,SMT,Building B - Line 1,Operational,2022-08-17,2026-10-22
+MCH-000020,CMM Machine,Testing,Building D - Assembly,Operational,2020-05-06,2023-05-29
+MCH-000021,Wave Solder Machine,SMT,Building B - Line 2,Operational,2021-01-07,2023-04-14
+MCH-000022,Stencil Printer,SMT,Building A - Line 2,Operational,2025-01-07,2026-05-17
+MCH-000023,Tensile Tester,Testing,Building B - Line 1,Operational,2019-12-15,2025-06-06
+MCH-000024,Thermal Chamber,Testing,Building B - Line 1,Under Maintenance,2025-03-11,2025-11-22
+MCH-000025,Servo Press 50T,Press,Building C - Lab,Decommissioned,2018-11-16,2019-06-14
+MCH-000026,Anodizing Tank,Surface Treatment,Building B - Line 1,Decommissioned,2025-07-19,2026-10-11
+MCH-000027,IM Machine 300T,Injection Molding,Building B - Line 1,Operational,2022-06-15,2024-04-16
+MCH-000028,Vibration Test Bench,Testing,Building B - Line 2,Operational,2022-05-21,2022-11-14
+MCH-000029,Automated Assembly Line,Assembly,Building C - Line 1,Operational,2023-04-12,2025-09-12
+MCH-000030,5-Axis CNC Center #3,CNC,Building A - Line 3,Operational,2018-06-08,2024-07-13
